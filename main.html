@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Crawler Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #4a6cf7;
+            --secondary: #6941c6;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --info: #0ea5e9;
+            --light: #f9fafb;
+            --dark: #1f2937;
+            --gray: #6b7280;
+            --light-gray: #e5e7eb;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--bg-color);
+            color: var(--dark);
+        }
+
+        h1 {
+            color: var(--primary);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .dashboard {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+
+        .stat-title {
+            color: var(--gray);
+            font-size: 14px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .stat-title i {
+            color: var(--primary);
+            font-size: 16px;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: 600;
+        }
+
+        .tabs {
+            display: flex;
+            background: var(--card-bg);
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            overflow: hidden;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 12px 16px;
+            text-align: center;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            border-bottom: 2px solid transparent;
+            color: var(--gray);
+        }
+
+        .tab:hover {
+            background-color: rgba(74, 108, 247, 0.05);
+        }
+
+        .tab.active {
+            border-bottom: 2px solid var(--primary);
+            color: var(--primary);
+            background-color: rgba(74, 108, 247, 0.05);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        th, td {
+            padding: 14px 16px;
+            text-align: left;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        th {
+            background-color: var(--light);
+            font-weight: 500;
+            color: var(--gray);
+            position: sticky;
+            top: 0;
+        }
+
+        tbody tr:hover {
+            background-color: rgba(74, 108, 247, 0.03);
+        }
+
+        .success-badge {
+            background-color: #dcfce7;
+            color: #065f46;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            display: inline-block;
+            font-weight: 500;
+        }
+
+        .error-badge {
+            background-color: #fee2e2;
+            color: #b91c1c;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            display: inline-block;
+            font-weight: 500;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .gallery-item {
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .gallery-info {
+            padding: 15px;
+        }
+
+        .gallery-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            color: var(--dark);
+        }
+
+        .gallery-url {
+            color: var(--gray);
+            font-size: 14px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .load-btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-bottom: 20px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+            box-shadow: 0 2px 4px rgba(74, 108, 247, 0.2);
+        }
+
+        .load-btn:hover {
+            background-color: #3d5ce4;
+            box-shadow: 0 4px 8px rgba(74, 108, 247, 0.3);
+        }
+
+        .message {
+            background-color: #e0e7ff;
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            color: #3730a3;
+        }
+
+        /* Accordion styles */
+        .accordion-row {
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .accordion-row:hover {
+            background-color: rgba(74, 108, 247, 0.05);
+        }
+
+        .accordion-content {
+            display: none;
+            padding: 0;
+            background-color: #f9fafb;
+            overflow: hidden;
+        }
+
+        .accordion-content.active {
+            display: table-row;
+        }
+
+        .expand-btn {
+            color: var(--primary);
+            cursor: pointer;
+            margin-right: 8px;
+            transition: transform 0.2s;
+        }
+
+        .expand-btn.expanded {
+            transform: rotate(90deg);
+        }
+
+        /* JSON viewer styles */
+        .json-viewer {
+            padding: 20px;
+            background-color: #f9fafb;
+            border-radius: 4px;
+            margin: 10px;
+            max-height: 500px;
+            overflow-y: auto;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', monospace;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .json-viewer-grid {
+            display: grid;
+            grid-template-columns: minmax(140px, auto) 1fr;
+            gap: 8px 16px;
+        }
+
+        .json-key {
+            color: #8b5cf6;
+            font-weight: 600;
+            text-align: right;
+            padding-right: 12px;
+            position: relative;
+        }
+
+        .json-key::after {
+            content: ":";
+            position: absolute;
+            right: 0;
+            color: #6b7280;
+        }
+
+        .json-value {
+            color: #0f766e;
+            word-break: break-word;
+        }
+
+        .json-number {
+            color: #0284c7;
+        }
+
+        .json-string {
+            color: #166534;
+        }
+
+        .json-boolean {
+            color: #9333ea;
+            font-weight: 600;
+        }
+
+        .json-null {
+            color: #9ca3af;
+            font-style: italic;
+        }
+
+        .json-section {
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 6px;
+            background: white;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .json-section-title {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        /* Placeholder styles */
+        .empty-placeholder {
+            text-align: center;
+            padding: 30px 20px;
+            color: var(--gray);
+        }
+
+        .empty-placeholder i {
+            font-size: 40px;
+            margin-bottom: 15px;
+            color: #d1d5db;
+            opacity: 0.8;
+        }
+
+        .empty-placeholder p {
+            font-size: 16px;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <h1><i class="fas fa-spider"></i> Web Crawler Dashboard</h1>
+        
+        <div class="message">
+            <p>This dashboard loads data directly from your crawler's output files. Make sure to run the crawler first.</p>
+        </div>
+
+        <button class="load-btn" onclick="loadData()">
+            <i class="fas fa-sync-alt"></i> Load Crawler Data
+        </button>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-title"><i class="fas fa-globe"></i> Pages Crawled</div>
+                <div class="stat-value" id="pages-crawled">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title"><i class="fas fa-sitemap"></i> Max Depth</div>
+                <div class="stat-value" id="max-depth">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title"><i class="fas fa-clock"></i> Last Crawl</div>
+                <div class="stat-value" id="last-crawl">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title"><i class="fas fa-images"></i> Screenshots</div>
+                <div class="stat-value" id="screenshots-count">-</div>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="showTab('data-tab')">Crawl Data</div>
+            <div class="tab" onclick="showTab('screenshots-tab')">Screenshots</div>
+        </div>
+
+        <div id="data-tab" class="tab-content active">
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 30px"></th>
+                        <th>#</th>
+                        <th>URL</th>
+                        <th>Title</th>
+                        <th>Timestamp</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="data-table">
+                    <tr>
+                        <td colspan="6">
+                            <div class="empty-placeholder">
+                                <i class="fas fa-database"></i>
+                                <p>Click "Load Crawler Data" to view results</p>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div id="screenshots-tab" class="tab-content">
+            <div class="gallery" id="screenshots-gallery">
+                <div class="empty-placeholder" style="grid-column: 1/-1;">
+                    <i class="fas fa-images"></i>
+                    <p>Click "Load Crawler Data" to view screenshots</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabId) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            // Deactivate all tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show the selected tab content
+            document.getElementById(tabId).classList.add('active');
+            
+            // Activate the clicked tab
+            event.currentTarget.classList.add('active');
+        }
+
+        function formatDate(dateString) {
+            if (!dateString) return '-';
+            
+            try {
+                const date = new Date(dateString);
+                return date.toLocaleString();
+            } catch (e) {
+                return dateString;
+            }
+        }
+
+        function truncateText(text, maxLength) {
+            if (!text) return '-';
+            return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+        }
+
+        function toggleAccordion(index) {
+            const content = document.getElementById(`accordion-content-${index}`);
+            const icon = document.getElementById(`expand-icon-${index}`);
+            
+            if (content.classList.contains('active')) {
+                content.classList.remove('active');
+                icon.classList.remove('expanded');
+            } else {
+                content.classList.add('active');
+                icon.classList.add('expanded');
+            }
+        }
+
+        function formatJsonValue(value) {
+            if (value === null) return '<span class="json-null">null</span>';
+            if (typeof value === 'boolean') return `<span class="json-boolean">${value}</span>`;
+            if (typeof value === 'number') return `<span class="json-number">${value}</span>`;
+            if (typeof value === 'string') {
+                if (value.startsWith('http')) {
+                    return `<span class="json-string"><a href="${value}" target="_blank" style="color:inherit; text-decoration:underline;">${value}</a></span>`;
+                }
+                return `<span class="json-string">${value}</span>`;
+            }
+            return value;
+        }
+
+        function createJsonViewer(data) {
+            // Main sections to organize data
+            const sections = {
+                'Basic Info': ['url', 'title', 'timestamp'],
+                'Metadata': ['meta_tags'],
+                'Content': ['body_text'],
+                'Errors': ['extraction_error']
+            };
+            
+            let html = '<div class="json-viewer">';
+            
+            // Process each section
+            for (const [sectionName, keys] of Object.entries(sections)) {
+                // Check if any keys in this section exist in the data
+                const hasData = keys.some(key => data.hasOwnProperty(key));
+                if (!hasData) continue;
+                
+                html += `<div class="json-section">
+                    <div class="json-section-title">${sectionName}</div>
+                    <div class="json-viewer-grid">`;
+                
+                // Add all properties for this section
+                for (const key of keys) {
+                    if (data.hasOwnProperty(key)) {
+                        const value = data[key];
+                        
+                        // Handle different types of values
+                        if (key === 'meta_tags' && typeof value === 'object') {
+                            html += `<div class="json-key">${key}</div>
+                                    <div class="json-value">
+                                        <div class="json-viewer-grid" style="margin-top: 8px;">`;
+                            
+                            for (const [metaKey, metaValue] of Object.entries(value)) {
+                                html += `<div class="json-key">${metaKey}</div>
+                                        <div class="json-value">${formatJsonValue(metaValue)}</div>`;
+                            }
+                            
+                            html += `</div></div>`;
+                        } else {
+                            html += `<div class="json-key">${key}</div>
+                                    <div class="json-value">${formatJsonValue(value)}</div>`;
+                        }
+                    }
+                }
+                
+                html += `</div></div>`;
+            }
+            
+            // Add any remaining properties not covered in predefined sections
+            const remainingKeys = Object.keys(data).filter(key => {
+                return !Object.values(sections).flat().includes(key);
+            });
+            
+            if (remainingKeys.length > 0) {
+                html += `<div class="json-section">
+                    <div class="json-section-title">Other Data</div>
+                    <div class="json-viewer-grid">`;
+                
+                for (const key of remainingKeys) {
+                    const value = data[key];
+                    if (typeof value === 'object' && value !== null) {
+                        const jsonString = JSON.stringify(value, null, 2);
+                        html += `<div class="json-key">${key}</div>
+                                <div class="json-value"><pre>${jsonString}</pre></div>`;
+                    } else {
+                        html += `<div class="json-key">${key}</div>
+                                <div class="json-value">${formatJsonValue(value)}</div>`;
+                    }
+                }
+                
+                html += `</div></div>`;
+            }
+            
+            html += '</div>';
+            return html;
+        }
+
+        function loadData() {
+            // Load crawler data from output file
+            fetch('examples/crawl_results/crawl_data_20250422_112227.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Could not find crawl data file');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    updateDashboard(data);
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    alert('Error loading data: ' + error.message);
+                });
+        }
+
+        function updateDashboard(crawlData) {
+            // Update summary stats
+            document.getElementById('pages-crawled').textContent = crawlData.metadata.urls_crawled || '0';
+            document.getElementById('max-depth').textContent = crawlData.metadata.max_depth || '0';
+            document.getElementById('last-crawl').textContent = formatDate(crawlData.metadata.timestamp) || '-';
+            
+            // Update table
+            const tableBody = document.getElementById('data-table');
+            tableBody.innerHTML = '';
+            
+            if (crawlData.data && crawlData.data.length > 0) {
+                crawlData.data.forEach((item, index) => {
+                    // Create status badge
+                    let statusBadge = '<span class="success-badge">Success</span>';
+                    if (item.extraction_error) {
+                        statusBadge = '<span class="error-badge">Error</span>';
+                    }
+                    
+                    // Create the accordion row
+                    const row = document.createElement('tr');
+                    row.className = 'accordion-row';
+                    row.onclick = function() { toggleAccordion(index); };
+                    
+                    row.innerHTML = `
+                        <td><i id="expand-icon-${index}" class="fas fa-chevron-right expand-btn"></i></td>
+                        <td>${index + 1}</td>
+                        <td title="${item.url}"><a href="${item.url}" target="_blank" style="color:inherit; text-decoration:underline;">${truncateText(item.url, 50)}</a></td>
+                        <td title="${item.title || ''}">${truncateText(item.title || '-', 50)}</td>
+                        <td>${formatDate(item.timestamp)}</td>
+                        <td>${statusBadge}</td>
+                    `;
+                    
+                    tableBody.appendChild(row);
+                    
+                    // Create the content row with JSON viewer
+                    const contentRow = document.createElement('tr');
+                    contentRow.id = `accordion-content-${index}`;
+                    contentRow.className = 'accordion-content';
+                    
+                    contentRow.innerHTML = `
+                        <td colspan="6">
+                            ${createJsonViewer(item)}
+                        </td>
+                    `;
+                    
+                    tableBody.appendChild(contentRow);
+                });
+            } else {
+                tableBody.innerHTML = `
+                    <tr>
+                        <td colspan="6">
+                            <div class="empty-placeholder">
+                                <i class="fas fa-search"></i>
+                                <p>No data available</p>
+                            </div>
+                        </td>
+                    </tr>`;
+            }
+
+            // Load screenshots
+            loadScreenshots(crawlData);
+        }
+
+        function loadScreenshots(crawlData) {
+            const gallery = document.getElementById('screenshots-gallery');
+            gallery.innerHTML = '';
+            
+            // Check if screenshots directory exists
+            const screenshotsCount = crawlData.metadata.urls_crawled || 0;
+            document.getElementById('screenshots-count').textContent = screenshotsCount;
+            
+            if (screenshotsCount > 0) {
+                // Create screenshots based on crawl data
+                crawlData.data.forEach((item, index) => {
+                    // Calculate screenshot path
+                    const screenshotPath = `examples/crawl_results/screenshots/${index + 1}.png`;
+                    
+                    const galleryItem = document.createElement('div');
+                    galleryItem.className = 'gallery-item';
+                    
+                    galleryItem.innerHTML = `
+                        <img src="${screenshotPath}" alt="${item.title || 'Screenshot'}" onerror="this.src='https://via.placeholder.com/800x600?text=Not+Found'">
+                        <div class="gallery-info">
+                            <div class="gallery-title" title="${item.title || 'Screenshot'}">${truncateText(item.title || `Screenshot ${index + 1}`, 30)}</div>
+                            <div class="gallery-url" title="${item.url || ''}"><a href="${item.url}" target="_blank" style="color:inherit; text-decoration:underline;">${truncateText(item.url || '', 40)}</a></div>
+                        </div>
+                    `;
+                    
+                    gallery.appendChild(galleryItem);
+                });
+            } else {
+                gallery.innerHTML = `
+                    <div class="empty-placeholder" style="grid-column: 1/-1;">
+                        <i class="fas fa-camera"></i>
+                        <p>No screenshots available</p>
+                    </div>`;
+            }
+        }
+    </script>
+</body>
+</html>
