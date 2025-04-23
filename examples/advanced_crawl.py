@@ -131,17 +131,7 @@ def create_example_proxy_file(filepath):
     """Create an example proxy file for demonstration."""
     example_proxies = [
         {
-            "server": "http://proxy1.example.com:8080",
-            "username": "user1",
-            "password": "pass1"
-        },
-        {
-            "server": "http://proxy2.example.com:8080"
-        },
-        {
-            "server": "socks5://proxy3.example.com:1080",
-            "username": "user3",
-            "password": "pass3"
+            "server": "https://www.google.com/search?q=stephen+hawking&sca_esv=5a5a3411688c7191&rlz=1C1RXQR_en-GBIN1073IN1073&sxsrf=AHTn8zoM22-JVna_RnMjfG07HChKKIBLZg%3A1745377796536&ei=BFoIaJq6IOaLnesPipaZaQ&gs_ssp=eJzj4tLP1TcwLEnJq8wwYPTiLy5JLchIzVPISCzPzsxLBwCLkAny&oq=steph&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXN0ZXBoKgIIADINEC4YgAQYsQMYQxiKBTILEC4YgAQYsQMYgwEyCBAAGIAEGLEDMggQLhiABBixAzILEC4YgAQYsQMYgwEyCxAuGIAEGLEDGIMBMgUQLhiABDIIEC4YgAQYsQMyCBAuGIAEGLEDMgUQABiABDIcEC4YgAQYsQMYQxiKBRiXBRjcBBjeBBjfBNgBAUjdN1CaBljmLXADeAGQAQSYAeQBoAGyD6oBBTAuOS4yuAEDyAEA-AEBmAILoALgFKgCFMICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBBAjGCfCAg4QABiABBiRAhixAxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAg0QABiABBixAxgUGIcCwgIHECMYJxjqAsICExAAGIAEGEMYtAIYigUY6gLYAQHCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICCxAAGIAEGJECGIoFwgIOEAAYgAQYsQMYgwEYigXCAgoQABiABBhDGIoFwgIKEC4YgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIQEC4YgAQYsQMYQxiDARiKBcICEBAuGIAEGLEDGEMY1AIYigXCAg0QABiABBixAxhDGIoFmAMN8QWtVeJx6J4txYgGAZAGCroGBggBEAEYAZIHCTMuMy40LjctMaAH49UBsgcJMC4zLjQuNy0xuAetFA&sclient=gws-wiz-serp"
         }
     ]
     

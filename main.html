@@ -582,7 +582,7 @@
 
         function loadData() {
             // Load crawler data from output file
-            fetch('examples/crawl_results/crawl_data_20250422_112227.json')
+            fetch('examples/advanced_crawl_results/crawl_data_20250423_085945.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Could not find crawl data file');
@@ -673,7 +673,7 @@
                 // Create screenshots based on crawl data
                 crawlData.data.forEach((item, index) => {
                     // Calculate screenshot path
-                    const screenshotPath = `examples/crawl_results/screenshots/${index + 1}.png`;
+                    const screenshotPath = `examples/advanced_crawl_results/screenshots/${index + 1}.png`;
                     
                     const galleryItem = document.createElement('div');
                     galleryItem.className = 'gallery-item';

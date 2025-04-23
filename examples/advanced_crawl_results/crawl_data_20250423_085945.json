@@ -1,0 +1,1204 @@
+{
+  "metadata": {
+    "urls_crawled": 100,
+    "max_depth": 10,
+    "timestamp": "2025-04-23T08:59:45.833649"
+  },
+  "data": [
+    {
+      "url": "https://www.warp.dev/",
+      "title": "Warp: The intelligent terminal",
+      "timestamp": "2025-04-23T08:54:10.859045",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe intelligent terminal.\n\nBecome a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.\n\nDownload for Mac\nbrew install --cask warp\n\nTrusted by over half a million engineers at leading companies\n\nWarp keeps me in flow.\nWarp has been the one tool I’ve continuously reached for time and time again. It’s helped me level up my skills as a developer, and it keeps me in the flow thanks to the ability to ask questions right from the command line.\n\nErin Mikail Staples\n\nSenior Developer Experience Engineer at Galileo\n\nPowerful AI Tools\n\nThe tools you need to code faster.\n\nFrom generating commands to explaining errors, Agent Mode empowers you to code faster, troubleshoot smarter, and work seamlessly.\n\nBuilt in AI coding tools\n\nAgent Mode enhances your terminal with powerful AI coding features, enabling seamless code generation, editing, and task management.\n\n...",
+      "meta_tags": {
+        "description": "Warp is the intelligent terminal with AI and your dev team's knowledge built-in. Available on MacOS, Windows and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "17"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/warp-drive",
+      "title": "Warp Drive: Keep notebooks and workflows in your terminal | Warp",
+      "timestamp": "2025-04-23T08:54:14.321979",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWarp Drive\nPut your terminal workflows on rails\n\nWarp Drive is a secure space in your terminal where you can save and share interactive notebooks and reusable workflows.\n\nDownload for Mac\nbrew install --cask warp\n\nNotebooks\n\nWork through runbooks without leaving the terminal\n\nCombine code blocks and documentation into interactive Notebooks that live next to your command line and sync in real-time.\n\nMarkdown flavored editor\nSyntax highlighting\nEmbed workflows or runnable code\n\nWorkflows\n\nFind and run the right commands\n\nMore powerful than aliases, Workflows let you save your most important commands and search for them by name.\n\nDefine arguments and descriptions\nUse CTRL-R to search on-demand\nLearn how often workflows get used\n\nSession Sharing\n\nMultiplayer, now in the terminal\n\nStream your session and hand over the controls to trusted teammates. Start a shared session to streamline:\n\nTeam onboarding\nPaired codin...",
+      "meta_tags": {
+        "description": "Warp Drive is a space in your terminal where you can securely save and share commands as workflows.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/ai-tools",
+      "title": "Warp Terminal With AI Coding Tools | Warp",
+      "timestamp": "2025-04-23T08:54:16.727567",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nAI, at your command.\n\nExperience the future of development: AI that transforms your terminal into a powerful productivity tool.\n\nDownload for Mac\nbrew install --cask warp\n\nMac\n\nLinux\n\nWindows\n\n“Warp is my terminal of choice and it’s great for AI-generated commands. I’m using it 10× per day.”\n__\n\nSwyx\n\nEditor at Latent.space\n\nPowerful AI Tools\n\nThe tools you need to code faster.\n\nFrom generating commands to explaining errors, Agent Mode empowers you to code faster, troubleshoot smarter, and work seamlessly.\n\nBuilt in AI coding tools\n\nAgent Mode enhances your terminal with powerful AI coding features, enabling seamless code generation, editing, and task management.\n\nDelegate tasks to Warp\nType natural language on the command line\nAccelerated Workflows\n\nAI that anticipates your next move.\n\nWith Warp AI, get instant, relevant suggestions for your workflows. Accept completions and next steps effortlessly, letting y...",
+      "meta_tags": {
+        "description": "Powerful AI terminal and coding tools designed for developers. Boost your productivity, download Warp today.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "16"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/rss.xml",
+      "title": "",
+      "timestamp": "2025-04-23T08:54:18.597306",
+      "body_text": "This XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\n<channel>\n<title>\n<![CDATA[ Warp Blog | RSS Feed ]]>\n</title>\n<description>\n<![CDATA[ Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux. ]]>\n</description>\n<link>https://www.warp.dev</link>\n<image>\n<url>https://leading-bell-3e1c02e64d.media.strapiapp.com/Docker_e15b0e8b6e.jpg</url>\n<title>Warp Blog | RSS Feed</title>\n<link>https://www.warp.dev</link>\n</image>\n<generator>RSS for Node</generator>\n<lastBuildDate>Tue, 22 Apr 2025 22:41:52 GMT</lastBuildDate>\n<atom:link href=\"https://www.warp.dev/rss.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n<pubDate>Tue, 22 Apr 2025 22:41:52 GMT</...",
+      "meta_tags": {}
+    },
+    {
+      "url": "https://www.warp.dev/linux-terminal",
+      "title": "Warp, the AI linux terminal | Warp | Warp",
+      "timestamp": "2025-04-23T08:54:20.460955",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWarp for Linux\nFaster, more powerful, and ready for Linux\n\nWarp, the reimagined terminal, is now available for popular Linux distributions.\n\nDownload for Mac\nbrew install --cask warp\nExperience the difference\nMove faster with more ways to edit commands\n\nEdit text more easily, whether you’re working keyboard-first or using a mouse pointer.\n\nSave parameterized commands to run on-demand\n\nMore powerful than aliases, Warp Drive lets you save and share the most important commands so you can find them with search and run them anytime.\n\nSmart command suggestions are built-in\n\nAccept suggested commands or use Warp AI to look up the right commands to run, without using Google or Stack Overflow. No plugins required.\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelo...",
+      "meta_tags": {
+        "description": "Warp is a fast, powerful Rust-based terminal available for popular Linux distributions",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/mac-terminal-themes",
+      "title": "Style with Warp - Mac terminal themes | Warp",
+      "timestamp": "2025-04-23T08:54:22.407764",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nA Mac terminal with themes you’ll love\n\nWarp is a reimagined terminal with customizable themes and settings for a modern developer experience.\n\nDownload for Mac\nbrew install --cask warp\nModern, beautiful themes\n\nBrowse Warp’s library of popular and accessible themes—from minimalist designs to unique backgrounds.\n\nUse Solarized Dark for precise Dark Mode\n\nShow your pride with a rainbow gradient\n\nKeep cool with lux marble\n\nJust keep swimming with Koi theme\n\nStick to Warp’s default theme — which looks great out of the box\n\nIntuitive options for custom designs\n\nCode a theme from scratch or use Warp’s in-app theme builder.\n\nCreate custom themes from an image\n\nFor a truly personalized theme, upload any background image. Warp can automatically suggest a color palette to match.\n\nLearn more about custom themes\nAdjust fonts, colors, opacity, and input position\n\nAfter you’ve set your theme, you can personalize settings f...",
+      "meta_tags": {
+        "description": "Warp is a reimagined AI terminal with customizable themes and settings for a modern developer experience.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terms-of-service",
+      "title": "Warp's Terms of Service | Warp",
+      "timestamp": "2025-04-23T08:54:25.296744",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWarp product and services license agreement\n\nIMPORTANT - READ CAREFULLY. THIS SOFTWARE AND SERVICES LICENSE AGREEMENT (“AGREEMENT”) SETS FORTH THE LEGAL TERMS AND CONDITIONS WHICH GOVERN RELATIONSHIP BETWEEN DENVER TECHNOLOGIES, INC. D/B/A WARP.DEV (“WARP”) AND THE OTHER PARTY AGREEING TO THE TERMS AND CONDITIONS OF THIS AGREEMENT (“LICENSEE” OR “YOU”). THIS AGREEMENT APPLIES TO ANY WARP PRODUCT YOU DOWNLOAD OR ACCESS. IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN YOU SHOULD NOT PROCEED WITH SETTING UP YOUR ACCESS TO WARP. DO NOT CLICK ANY BUTTON TO SET UP ACCESS TO WARP ON ANY PAGE RUN BY WARP OR ITS PAYMENT PROCESSOR (SUCH AS STRIPE) (IF APPLICABLE) UNLESS ( 1) YOU ARE AUTHORIZED TO ACCEPT AND AGREE TO THE TERMS OF THIS AGREEMENT AND ( 2) YOU INTEND TO ENTER INTO AND TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU CONTINUE TO SET UP ACCESS TO WARP, YOU WILL BE GRANTED ACCESS TO THE PRODUCT, AND T...",
+      "meta_tags": {
+        "description": "Terms of service for Warp, a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-warp-works",
+      "title": "How Warp Works | Warp",
+      "timestamp": "2025-04-23T08:54:27.177146",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow Warp Works\n\nAloke Desai\n\nJuly 12, 2021\n\nWarp is a new high-performance terminal built entirely in Rust that makes you and your team more productive and the CLI easier to use. The input editor for commands is a full text-editor that supports selections, cursor positioning, and shortcuts like you are used to in other apps. Commands and their output are visually grouped into blocks, and existing shortcuts like up-arrow and ctrl-r have new visual menus to make them easier to use.\n\nIn this article, I walk through how we built the foundation of Warp: the UI, blocks, and the input editor. Building this foundation ultimately helped us unblock even more exciting features that we’re launching in the coming months, like infinite history, real-time collaboration, and shared environment variables.\n\nDesigning Warp required us to be intentional about our stack at nearly every level. At the start we had a key requirements...",
+      "meta_tags": {
+        "description": "Understand more about the product and engineering choices behind Warp - why Rust + Metal, compatibility with existing shells, UI elements, and intuitive editing.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/careers",
+      "title": "Careers at Warp | Warp",
+      "timestamp": "2025-04-23T08:54:29.644931",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nMake the command line more usable, humane, and powerful for everyone.\nWe're a team of product-first developers reinventing a tool that we use every day, and we're looking for more teammates. Join us!\nSee open roles\n\nTeam retreat in Taos, New Mexico\n\nIn-person workshop\n\nAs a Warper, you’ll get to:\nRadically change an iconic tool that developers use every day\nWork on a fast-growing startup in its early stages and have direct impact\nShape company culture in a welcoming, diverse environment\nHow we work\n\nOur team is keenly conscious of how best to work with each other. Check out our How We Work guide.\n\nSee open roles\n \nProduct-first\n\nFocus on user experience and make engineering choices based on building the best product for developers.\n\n \nBe pragmatic\n\nMake decisions based on reason and pragmatism—not hierarchy.\n\n \nRun by developers\n\nWe use the product as we build it and solve our problems as we build.\n\n \nDiversit...",
+      "meta_tags": {
+        "description": "Join us and make the command line more usable, humane, and powerful for everyone.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/contact-sales",
+      "title": "Contact Sales at Warp | Warp",
+      "timestamp": "2025-04-23T08:54:31.754719",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nContact Sales\n\nFill out this form to request a demo for your team at work.\n\nEmail*\n\nCompany name*\n\nFirst name*\n\nLast name*\n\nJob title*\n\nWhat can we help you with?*\n\nSelect one...\nDemo Request\nUpgrade Plan\nOther\n\nMessage*\n\nSubmit\nExperience the power of Warp\nWrite with an IDE-style editor\nEasily navigate through output\nSave commands to reuse later\nAsk Warp AI to explain or debug\nCustomize keybindings and launch configs\nPick from preloaded themes or design your own\nDownload for Mac\nContact sales\nbrew install --cask warp\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESE...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus",
+      "title": "Terminus | Warp",
+      "timestamp": "2025-04-23T08:54:34.066409",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nYour coding questions, answered.\n\nTerminus provides developers with solutions and methods to fix common coding issues. Terminus is your resource for precise, actionable insights tailored for professional development environments.\n\nFeatured\nVi\nCopy & Paste in Vim / Vi\n\nCopy (Yank), Paste (Put) and Cut (Delete) in Vim\n\nJessica Wang\n\nVIM\nVI\nGi\nGit Commit History\n\nDifferent ways to use Git to understand how to navigate the commit history of a repository or branch\n\nGlory Kim\n\nGIT\nFEATURED TOPIC\nVi\nVim\n14\nVIEW ALL IN VIM\nVim Find And Replace\n\nYou can use either the substitute command or the slash and dot method to search for patterns and replace with different values.\n\nGlory Kim\n\nVIM\nVI\nSele...",
+      "meta_tags": {
+        "description": "Terminus by Warp is a comprehensive resource hub for terminal commands and workflows. Master the CLI with expert insights tailored for developers.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/about",
+      "title": "About Warp: Our Story | Warp",
+      "timestamp": "2025-04-23T08:54:36.245056",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWe’re recreating the command line to be more useable, humane, and powerful for everyone.\nOur Ethos\n\nThe command line is both incredibly powerful and annoyingly hard to use.\n\nMaster it and gain super-powers: from controlling your cloud systems, to manipulating local files and programs, writing quick workflows and more...it's a developer's swiss-army knife.\n\nDespite its power, it's a very hard tool to master. It has a notoriously steep learning curve - it doesn't work like other tools, nothing in it helps you learn how to use it well, it's very easy to make destructive mistakes, and so on.\n\nMany developers avoid it for these reasons. But for those who do learn how to use it well, they become much better at development and devops. Mastering the CLI lets you work faster with your existing tools, and increases their power because a keyboard driven, repl-style interface has many advantages over GUIs.\n\nAt Warp, our g...",
+      "meta_tags": {
+        "description": "We’re recreating the command line to be more useable, humane, and powerful for everyone.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "17"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/enterprise",
+      "title": "Warp: The intelligent terminal",
+      "timestamp": "2025-04-23T08:54:38.205747",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nAccelerating modern engineering teams\n\nSupercharge your team’s development workflows with AI, security, and collaboration built in\n\nContact Sales\nView plans\n\nTrusted by over 16,000 engineering teams at leading companies\n\n56%\n\nFortune 500 engineering teams rely on Warp\n\n187k\n\nEngineering hours saved each month\n\n70%\n\nFaster onboarding of engineers\n\n“Warp has been a game-changer for my team. We’re focused on integrating AI not just for efficiency, but to enhance how our engineers collaborate. Agent Mode and Warp Drive save each engineer hours per week.”\n\nEngineering Lead at Public Fintech Co\n\nBuilt for modern enterprise\nEnterprise-Grade SLAs, Ensuring Reliability When It Matters Most\n\nSAML-based SSO, role based access control for permission management, and SOC2 Type 2 compliance.\n\nYour Data, Your Control\n\nIndustry leading data policies including zero data retention – we will not retain or use any of your data. Se...",
+      "meta_tags": {
+        "description": "Warp is the intelligent terminal with AI and your dev team's knowledge built-in. Available on MacOS, Windows and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/pricing",
+      "title": "Pricing and plans for Warp | Warp",
+      "timestamp": "2025-04-23T08:54:40.033036",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nUpgrade to supercharge your workflow\nFree\n\nFor developers looking to boost productivity with a modern UX\n\n$0\n\nDownload now\nIncludes\nUp to 150 AI requests per month\n4M Tokens\nUnlimited Next Command suggestions\nLLM model choice (free preview)\nCoding capabilities in Agent Mode (free preview)\nPersonal Warp Drive\nUp to 3 Notebooks and 10 Workflows in a shared Drive\nModern input text editing\n5 real-time shared sessions\nAll offline terminal features\nFree support through public forums\nPro\n\nPopular\n\nFor developers using AI to help code, debug, and troubleshoot\n\n$15\n\n/ user / mo, billed annually\n\n$18 billed monthly\n\nStart today\nEverything in Free, plus\nUp to 1,000 AI requests per month\n35M Tokens\nUnlimited shared Notebooks and Workflows in Warp Drive\nUnlimited real-time session sharing\nPrivate email support\nTurbo\n\nFor developers using AI as a daily productivity driver\n\n$40\n\n/ user / mo, billed annually\n\n$50 billed month...",
+      "meta_tags": {
+        "description": "Explore Warp’s pricing plans. Get an AI-powered terminal with built-in team knowledge to help you build software faster and more efficiently.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/security",
+      "title": "Warp's Security Overview | Warp",
+      "timestamp": "2025-04-23T08:54:42.967757",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nSecurity Overview\nSecure by design\nWhat is Warp?\n\nWarp is a cloud-enabled, AI-assisted terminal application for developers that enables teams to share knowledge and collaborate asynchronously or in real-time alongside the command line.\n\nAI and Cloud-enabled features\n\nWarp’s cloud-enabled features include:\n\nWarp Drive\nWarp AI\nBlock Sharing and Embedding\n\nFor Warp Drive and block sharing and embedding, all data is securely stored in Google Cloud Platform (GCP). For more information about GCP security, please reference: https://cloud.google.com/security\n\nFor Warp AI, all data is sent through a proxy to US-hosted, enterprise-level APIs. A Zero Data Retention policy is available on Warp's Enterprise plan.\n\nYou can also open Warp’s network log to review all data sent and received: https://docs.warp.dev/features/network-log\n\nPrivacy Settings and Telemetry\nWhere can I find a link to Warp’s Privacy notice?\n\nWarp’s priv...",
+      "meta_tags": {
+        "description": "Warp is engineered to be secure by design. Learn about how to reach Warp's security team for more detailed information about data encryption and operations.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog",
+      "title": "Warp Blog - The AI Terminal | Warp",
+      "timestamp": "2025-04-23T08:54:46.288731",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\n\nLaunch Log 1\n\nBy Olivia Johnston\n\nFiled under\nProduct\n\nAll\nProduct\nEngineering\nCompany\nDocker x Warp\n\nBy Olivia Johnston\n\nCompany\nAnnouncing Warp Preview\n\nBy Hong Yi Chen\n\nProduct\nWarp, the intelligent terminal, now available on Windows\n\nBy Zach Lloyd\n\nCompany\nBringing Warp to Windows: Eng Learnings (So Far)\n\nBy Abhishek Pandya\n\nEngineering\nWarp Wrapped: 2024 in Review\n\nBy Catherine Yeo\n\nProduct\nDecember Release: Enhanced session sharing, Warp on Web, expanded AI capabilities, and a new icon\n\nBy Olivia Johnston\n\nProduct\nReducing WASM binary size: lessons from building a web terminal\n\nBy Jack Nichols\n\nEngineering\nNo Glyph Left Behind: Font Fallback in a WASM Terminal\n\nBy Daniel Peng\n\nEngineering\nHow to get free Warp swag\n\nBy Hong Yi Chen\n\nCompany\nLifting the login requirement\n\nBy Zach Lloyd\n\nProduct\nThe World of Warp\n\nBy Kyle Ribant, Kim Pham and Alisha Mowder\n\nCompany\nDynamically sync env vars into your termi...",
+      "meta_tags": {
+        "description": "The future of AI development. We share insights, trends, and best practices to help developers build faster and smarter.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/windows-terminal",
+      "title": "Warp - The AI Windows terminal | Warp",
+      "timestamp": "2025-04-23T08:54:49.007883",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe intelligent terminal built for Windows\n\nWarp combines AI and your dev team’s knowledge in one fast, intuitive terminal.\n\nDownload for Mac\nbrew install --cask warp\n\nTrusted by over 16,000 engineering teams at leading companies\n\n\"Just had an omg moment with Warp 😍\"\n\nDavid Fowler\n\nDistinguished Engineer at Microsoft\n\nModern UX\n\nExperience the command line, unleashed.\n\nWarp comes with quality of life features built-in. Auto-complete commands, edit like an IDE, and customize your terminal from themes to keybindings.\n\nLearn about modern editing\nNavigate with blocks and edit inline\n\nMove up and down through input/output blocks, then edit multi-line commands by placing your cursor where you want to type.\n\nComplete commands faster with smart suggestions\nMake it yours with themes and custom configs\nSwitch between your shells and environment\nTech Specs\n\nEngineered to run faster-than-light.\n\nTECHNOLOGY\nLANGUAGE\n\nRUST\n...",
+      "meta_tags": {
+        "description": "Warp is an AI-powered terminal for Windows. It offers modern editing, Warp Drive for workflows, and Warp AI for smart commands.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "17"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/download-preview",
+      "title": "Download Warp Preview | Warp",
+      "timestamp": "2025-04-23T08:54:51.980099",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTry Warp Preview\n\nLearn more about our early-access Warp Preview program\n\nMac\n\nmacOS (PREVIEW)\n\nVersion 10.14+\n\nLinux\n\n.deb (PREVIEW)\n\nDebian, Ubuntu\n\n.rpm (PREVIEW)\n\nRed Hat, Fedora, SUSE\n\n.deb\n\nx64\nARM64\n\n.rpm\n\nx64\nARM64\n\n.tar.zst\n\nArch Linux\n\nx64\nARM64\n\nAppImage\n\nx64\nARM64\nWindows\n\n.exe (PREVIEW)\n\nFor Windows 11/10 x64\n\n.exe (PREVIEW)\n\nFor Windows 11/10 ARM64\n\n.exe\n\nx64\nARM64\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a fast, AI devtool for Windows, Mac, and Linux. Warp Preview is an exclusive build of Warp with early-access and experimental features.Built in Rust, it helps developers write, debug, and code faster with built-in AI.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/download",
+      "title": "Download | Warp",
+      "timestamp": "2025-04-23T08:54:53.517408",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDownloads\n\nIf you’re interested in unreleased and experimental features, check out Warp Preview\n\nMac\n\nmacOS\n\nVersion 10.14+\n\nbrew install --cask warp\nLinux\n\n.deb\n\nDebian, Ubuntu\n\n.rpm\n\nRed Hat, Fedora, SUSE\n\n.deb\n\nx64\nARM64\n\n.rpm\n\nx64\nARM64\n\n.tar.zst\n\nArch Linux\n\nx64\nARM64\n\nAppImage\n\nx64\nARM64\nWindows\n\n.exe\n\nFor Windows 11/10 x64\n\n.exe\n\nFor Windows 11/10 ARM64\n\n.exe\n\nx64\nARM64\nwinget install Warp.Warp\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a fast, AI devtool for Windows, Mac, and Linux. Built in Rust, it helps developers write, debug, and code faster with built-in AI.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/modern-terminal",
+      "title": "Warp - Modern UX and smart completions | Warp",
+      "timestamp": "2025-04-23T08:54:55.813946",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nModern UX\nEdit easier, navigate faster\n\nFeel like a command line pro on day one with a terminal reimagined for modern development.\n\nDownload for Mac\nbrew install --cask warp\n\nEditing\n\nEdit commands like in an IDE\n\nOnly Warp lets you place your mouse and cursor on the command line so you can edit like you’d expect from your favorite text editor.\n\nInput, select, and edit without backspacing\nEdit multiple lines at once\nUse smart selection to grab links, file paths, emails, IP addresses, or numbers\n\nCommand Completions\n\nSmart completions, out of the box\n\nWarp includes completions for 400+ CLI tools like cargo, docker, terraform, Vim, React, and more.\n\nCustomize whether you use tab or arrow to accept completions\nGet completions on-demand or as you type\n\nBlocks\n\nNavigate easier with Blocks\n\nWarp originated the terminal Block, grouping input and output together for easier navigation.\n\nMove up and down through blocks ...",
+      "meta_tags": {
+        "description": "Try Warp’s modern terminal with an IDE-like editor, smart completions, and AI-powered tools for faster development and seamless workflows.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/mac-terminal",
+      "title": "Warp, a Mac Terminal for the 21st Century | Warp",
+      "timestamp": "2025-04-23T08:54:57.646485",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe Mac terminal for the 21st century\n\nFeel more powerful on the command line with Warp, the terminal reimagined for a better programming experience.\n\nDownload for Mac\nbrew install --cask warp\n\nModern Editing\n\nCommand Generation\n\nReusable Workflows\n\nKnowledge Sharing\n\nQuickly find the right commands to run\nChat through programming workflow with Warp AI\n\nAsk Warp AI to debug errors, answer questions, or walk you though a complex setup, step by step.\n\nLook up commands without losing context\n\nHit ‘#’ and just start typing in natural language to find the commands you need. No need to search Google or Stack Overflow.\n\nUpgrade your input editing experience\n\nType, edit, and complete commands faster\n\nWarp lets you write commands more easily, whether you’re working keyboard-first or using your mouse to set a cursor position.\n\nInsert, copy, or select like an IDE\nEdit with default keybindings or Vim\nAccept smart completi...",
+      "meta_tags": {
+        "description": "Warp is an AI-powered terminal for Mac, built in Rust for speed. It offers modern editing, Warp Drive for workflows, and Warp AI for smart commands.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/coding",
+      "title": "Coding | Warp",
+      "timestamp": "2025-04-23T08:55:00.163719",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWrite code directly from the command line\n\nStart with a prompt, and watch Warp agents begin to work\n\nDownload for Mac\nbrew install --cask warp\n\n“Write PR unit tests, using comments to assess behavior and edge cases.”\n\n“Help me add touch capability to my application.”\n\n“Use GPT-4o to identify themes and sentiment in my user feedback.”\n\n“Warp has been an amazing product for us - our engineers save between 1-2 hours everyday.”\n\nVP of Engineering at Docker\n\nCode generation\n\nWarp will find the right place to add code, apply a diff and move on to the next step. You can view the changes made, confirm acceptance and make suggestions.\n\nAutonomy, on your terms\n\nAgents will draft an execution plan, and pause, waiting for your approval. Each step of the plan will be executed sequentially, and you can monitor progress along the way\n\nEnvironment setup\n\nWarp will import packages, manage dependencies and clean up versions - s...",
+      "meta_tags": {
+        "description": "Placeholder for Meta description",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/all-features",
+      "title": "Learn about all of the features of Warp, the intelligent terminal | Warp",
+      "timestamp": "2025-04-23T08:55:03.185444",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nYour terminal, reimagined\n\nCore terminal features that work offline. Innovative tools for productivity and collaboration.\n\nDownload for Mac\nContact sales\nbrew install --cask warp\nAppearance & customization\nCustom prompt\n\nBuild a custom prompt with context chips or bring in your PS1 for themes like Powerlevel10k or Starship\n\nCustom themes\n\nSelect from a theme library, code your own, or use the GUI to create a theme with a color palette from a background image\n\nInput position\n\nPin your command line to the top or bottom of your terminal window\n\nTransparent background\n\nMake your Warp windows transparent with opacity controls\n\nLearn more\nModern text editing\nIDE-like editing\n\nUse your mouse and cursor on the command line\n\nBlocks\n\nInput and output grouped together for easy navigation, sharing, and filtering\n\nEdit with Vim keybindings\n\nNavigate and insert text with vi-style keybindings\n\nCompletions\n\nHit TAB to navigat...",
+      "meta_tags": {
+        "description": "Warp is a modern terminal with core features that work offline and includes tools that boost productivity and help teams collaborate.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/contact",
+      "title": "Contact Sales at Warp | Warp",
+      "timestamp": "2025-04-23T08:55:05.646769",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nContact\nContact Sales\n\nDiscuss your enterprise requirements, explore personalized pricing options, or request a demo.\n\nLet's chat\nGet in touch\n\nFound a bug? File a GitHub issue and the Warp team will review it right away.\n\nNeed something else? Send us a note and we’ll route your request to the right team at Warp.\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/privacy",
+      "title": "Our commitment to user privacy | Warp",
+      "timestamp": "2025-04-23T08:55:07.431318",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nYour privacy while using Warp\n\nAt Warp, we’re building a completely new way to use the command line. Warp is an intelligent terminal that uses cloud-based LLMs to help developers, and also has a built in suite of cloud collaboration primitives. Because Warp works differently from classic terminal tools, we would like to share how we protect your privacy as you’re using the app.\n\nWarp’s telemetry is optional, and you can opt out at any time.\n\nWe may collect certain console interactions to improve Warp’s AI capabilities. You can opt out of this telemetry at anytime and still continue using all of Warp, including our AI features. Visit telemetry settings under Settings > Privacy.\n\nYou have full control.\n\nYou can read the list of high-level telemetry events that get sent for app analytics and monitor telemetry in real-time with our native Network Log. Visit our Privacy docs for more info.\n\nOur philosophy is full t...",
+      "meta_tags": {
+        "description": "Warp prioritizes privacy with optional telemetry and full user control. Opt out anytime and monitor data easily.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/faq",
+      "title": "Warp's FAQs | Warp",
+      "timestamp": "2025-04-23T08:55:10.923108",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nFrequently Asked Questions\nHow much does Warp Drive cost?\n\nWarp Drive is free for up to three team members. There are no hard limits on storage size. There are some limits to the number of objects you have in a shared Team drive. Visit warp.dev/pricing to learn more.\n\nPricing\nHow much do additional AI requests cost?\n\nWarp includes 150 free AI requests per user per month. If you need more, higher AI limits are available on paid plans. Visit warp.dev/pricing to learn more.\n\nPricing\nCan I import or export objects from Warp Drive?\n\nYes! Notebooks can be imported and exported in Markdown format. Workflows can be imported or exported in .yaml.\n\nDoes Warp Drive work locally?\n\nWhen you’re offline, Warp Drive will continue to work in read only mode. You must have a connection to the internet to create new workflows, update existing workflows, or sync updated workflows from a shared team drive.\n\nWhere are Warp Drive con...",
+      "meta_tags": {
+        "description": "Discover answers to common questions about Warp: from features to usage, get all the details you need in our comprehensive FAQ section.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/compare-terminal-tools",
+      "title": "Learn how Warp compares to other Terminal emulators | Warp",
+      "timestamp": "2025-04-23T08:55:13.694691",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminal Comparisons\nCompare terminal tools\n\nFind the best terminal and tooling for your needs. Compare features, pricing and more. Understand the pros and cons of different setups. Advance your developer toolkit.\n\nDownload for Mac\nContact sales\nbrew install --cask warp\nTerminals vs. Warp\n\nAlacritty vs. Warp\n\nCharm vs. Warp\n\nFig vs. Warp\n\nGhostty vs. Warp\n\nGitHub Copilot vs. Warp\n\niTerm2 vs. Warp\n\nKitty vs. Warp\n\nMac Terminal vs. Warp\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs...",
+      "meta_tags": {
+        "description": "Find the best terminal and tooling for your needs. Compare features, pricing and more of Warp vs other tools. Understand the pros and cons of different setups.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/privacy",
+      "title": "Our commitment to user privacy | Warp",
+      "timestamp": "2025-04-23T08:55:15.541780",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nYour privacy while using Warp\n\nAt Warp, we’re building a completely new way to use the command line. Warp is an intelligent terminal that uses cloud-based LLMs to help developers, and also has a built in suite of cloud collaboration primitives. Because Warp works differently from classic terminal tools, we would like to share how we protect your privacy as you’re using the app.\n\nWarp’s telemetry is optional, and you can opt out at any time.\n\nWe may collect certain console interactions to improve Warp’s AI capabilities. You can opt out of this telemetry at anytime and still continue using all of Warp, including our AI features. Visit telemetry settings under Settings > Privacy.\n\nYou have full control.\n\nYou can read the list of high-level telemetry events that get sent for app analytics and monitor telemetry in real-time with our native Network Log. Visit our Privacy docs for more info.\n\nOur philosophy is full t...",
+      "meta_tags": {
+        "description": "Warp prioritizes privacy with optional telemetry and full user control. Opt out anytime and monitor data easily.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/For%20Windows%2011/10%20ARM64",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:55:17.462003",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nPage not found.\n\nThe page you are looking for doesn't exist or has been moved.\n\nGo home\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/session-sharing",
+      "title": "Session Sharing | Warp",
+      "timestamp": "2025-04-23T08:55:20.427893",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nMultiplayer, now in \nthe \nterminal.\n\nStream your session, and hand over command line controls with Session Sharing in Warp.\n\nDownload for Mac\nTeam onboarding\nIt’s dangerous to go alone.\n\nSharing a session is easier than rolling a chair over to a desk. Start working together over the web, as quickly as you can drop a link in Slack or Teams.\n\nCommand-line pairing\nDon’t just watch, play.\n\nVideo streaming apps are great for conversations but not so great for command line pairing. Now you can keep Zoom, Slack, or Teams open for voice only while you grab the wheel in the terminal.\n\nIncident response\nFight fires faster.\n\nGather your oncall team together in a shared session. As you work through the issue together, you can log what you find in notebooks that live in your terminal alongside your session.\n\nFully-\nfeatured\nREAL TIME EMACS\nVIM CO-EDITING\nRICH COPY/PASTE\nINDEPENDENT SCROLLING\nPERMISSIONS CONTROLS\nVIEW THE D...",
+      "meta_tags": {
+        "description": "Stream your session, and hand over command line controls with Session Sharing in Warp.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "16"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/reducing-wasm-binary-size",
+      "title": "Reducing WASM binary size | Warp",
+      "timestamp": "2025-04-23T08:55:22.986347",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nReducing WASM binary size: lessons from building a web terminal\n\nJack Nichols\n\nDecember 11, 2024\n\nWe’re building Warp, an intelligent terminal written in Rust. We recently decided to cross-compile our app to web via WASM and are now making Warp available through the browser. Bringing Warp to the web is another step towards making our app more available and more useful for collaborative development!\n\nWhen we set out to bring Warp to the web, we faced several engineering challenges. One of the most significant was that the Warp executable was simply too large. It was 21.4MB after gzip compression. After digging in here, our big wins were (a) getting our Rust compiler options right and (b) building a framework for loading assets asynchronously. We ended up at 8MB. How did we get there?\n\nConsider making an engineering choice like this: we want to show a background theme image in Warp as soon as the application ope...",
+      "meta_tags": {
+        "description": "We’re building Warp, an intelligent terminal written in Rust. We recently decided to cross-compile our app to web via WASM and are now making Warp available through the browser.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/why-it-took-us-11-months-to-move-a-single-line-of-text",
+      "title": "Why it took us 11 months to move a single line of text | Warp",
+      "timestamp": "2025-04-23T08:55:25.605373",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWhy it took us 11 months to move a single line of text\n\nJessica Wang and Advait Maybhate\n\nJuly 18, 2024\n\nWe just launched the option to enable Same Line Prompt in Warp. Let’s talk about it!\n\nIntroduction to Same Line Prompt\n\nMost classic terminals have an input editor that sits inline with the shell prompt on a single line. By default, Warp’s prompt puts the input editor on a new line that sits below the shell prompt.\n\nEarly on, this quirky new line prompt was a design trade-off that enabled Warp to support some novel usability features for the terminal, including grouped blocks of commands and block actions.\n\nHowever, as more and more developers started to switch to Warp from their legacy terminals, the requests for the more traditional “same line prompt” experience came flooding in. Same Line Prompt became Warp’s most highly requested feature in 2024.\n\nA custom prompt in Warp with the old new line prompt sty...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/font-fallback-in-a-wasm-terminal",
+      "title": "Font Fallback in a WASM Terminal | Warp",
+      "timestamp": "2025-04-23T08:55:27.483497",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nNo Glyph Left Behind: Font Fallback in a WASM Terminal\n\nDaniel Peng\n\nDecember 5, 2024\n\nWe’re building Warp, the intelligent terminal with AI and your team’s knowledge built-in. Warp is built in Rust, and we recently took advantage of Rust’s ability to cross-compile to WebAssembly (WASM) to bring Warp to the web. Enabling Warp in the browser brings us closer to our vision of making the terminal more accessible and collaborative!\n\nAs part of this effort, we had to dive deep into the world of fonts and Unicode. At some point, you’ve probably been using your computer and encountered text with some weird boxes. What’s going on when that happens?\n\nA primer on font fallback\n\nWhenever your computer renders a character, it searches through font files for a matching graphical representation of that character, called a glyph. Each font file contains hundreds or even thousands of glyphs. A typical Western font might conta...",
+      "meta_tags": {
+        "description": "We’re building Warp, the intelligent terminal with AI and your team’s knowledge built-in. Warp is built in Rust, and we recently took advantage of Rust’s ability to cross-compile to WebAssembly (WASM) to bring Warp to the web.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/bash-printf",
+      "title": "Bash printf - Use Cases and Examples | Warp",
+      "timestamp": "2025-04-23T08:55:30.712801",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nBash\nBash printf\n\nTERMINUS BY WARP\n\nCONTENTS\n\nUse Cases and Examples\nprintf syntax\nprintf makes it easy for engineers to output readable content\necho vs printf\nprintf vs sprintf vs fprintf\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nBash printf\n\nGlory Kim\n\nSoftware Engineer, Loom\n\nPublished: 03/08/2023\n\nBASH\nUNIX\nLINUX\nABOUT TERMINUS\nUse Cases and Examples\n\nBash printf prints text on a terminal with multiple formatting options. It’s probably most useful to print in a shell script, but can be used on the command line as well.\n\n$ name = Sam\n $ printf \"Hi $name\"\n Hi Sam\n\n\nIn cases where we want more control over how content is displayed, we can leverage the additional formatting specifiers and arguments to fit our needs.\n\nprintf syntax\n\nprintf [-v var] [format specifiers] [arguments]\n\nvar: optional and if used, the output will not be printed but will be assigned to the variable. This is not to...",
+      "meta_tags": {
+        "description": "A simplified breakdown of how to use string formatting with bash printf: variables, format specifiers, and conversion specifications.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/docker",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:55:35.345668",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nDocker\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nDo\nDocker\nFeatured in Docker\nRun a Shell Script in a Dockerfile\n\nWhen and how to run a shell script in a Dockerfile\n\nPreston Tunnell Wilson\n\nRun Bash Shell In Docker\n\nStart an interactive shell in Docker container\n\nRazvan Ludosanu\n\nArticles in Docker\n37\n\nNEW\n\nA→Z\n\nLearning Docker (The Easy Way) Using LazyDocker & Warp\n\nA concise guide to learning Docker using Lazydocker. Highlights Docker’s benefits and takes advantage of Warp's AI features for a quick setup.\n\nDOCKER\nCopy File To Docker Container\n\nHow to copy files and directories from a local machine to a Docker container\n\nDOCKER\nCopy File From Container To Host\n\nCopy files and directories from a Docker container t...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/bash",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:55:39.065727",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nBash\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nBa\nBash\nFeatured in Bash\nLoop Through Files in Directory in Bash\n\nLearn how to iterate over files in a directory linearly and recursively using Bash and Python.\n\nRazvan Ludosanu\n\nRun Bash Shell In Docker\n\nStart an interactive shell in Docker container\n\nRazvan Ludosanu\n\nArticles in Bash\n17\n\nNEW\n\nA→Z\n\nBash Concatenate Strings\n\nJoin two strings together in Bash\n\nBASHLINUXUNIX\nBash Comments\n\nComments will help make your scripts more readable\n\nBASHLINUXUNIX\nBash printf\n\nHow to use string formatting with bash printf\n\nBASHUNIXLINUX\nBash Case Statement\n\nA popular alternative to the if-then-else statement\n\nBASHLINUXUNIX\nBash Aliases\n\nCreate an alias for common commands\n\nBASHLI...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/git-undo-pull",
+      "title": "How To Undo Pulled Commits In Git Using git-reset or git-stash | Warp",
+      "timestamp": "2025-04-23T08:55:41.043938",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nGit\nUndo A Git Pull\n\nTERMINUS BY WARP\n\nCONTENTS\n\nThe short answer\nPartially undoing a pull\nPreserving local changes\nAborting an ongoing pull\nUndoing a pull request on GitHub\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nUndo A Git Pull\n\nGlory Kim\n\nSoftware Engineer, Loom\n\nUpdated: 27/06/2024\n\nPublished: 07/06/2023\n\nGIT\nABOUT TERMINUS\nThe short answer\n\nIn Git, to discard all the changes made to your local repository by a pull, including the working directory and the staging area, you need to first identify the last commit hash before the pull using the git reflog command:\n\n$ git reflog\n\n\nThen reset the current branch to that commit using the git reset command as follows:\n\n$ git reset --hard <commit>\n\n\nWhere:\n\ncommit is a commit hash.\n\nAlternatively, you can specify the commit number using the following syntax instead:\n\n$ git reset --hard HEAD@{<number>}\n\n\nWhere:\n\nnumber is a commit number.\n\nFo...",
+      "meta_tags": {
+        "description": "How to effectively undo the commits introduced by a pull in Git using git-reset and preserve your local changes using git-stash. Also, how to cancel an unmerged pull request on GitHub.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/vim-copy-paste",
+      "title": "How To Copy, Cut, And Paste Words And Lines In Vim | Warp",
+      "timestamp": "2025-04-23T08:55:42.719639",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nVi\nCopy & Paste in Vim / Vi\n\nTERMINUS BY WARP\n\nCONTENTS\n\nVim Copy & Paste Terminology\nCopy, Cutting, and Pasting in Vim/Vi - The Basics\nVim Keyboard Shortcuts\nWhat Happens Under the Hood?\nConclusion\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nCopy & Paste in Vim / Vi\n\nJessica Wang\n\nDeveloper Advocate, Warp\n\nPublished: 20/05/2024\n\nVIM\nVI\nABOUT TERMINUS\nVim Copy & Paste Terminology\n\nThe keyboard shortcuts to copy, cut, and paste can be boiled down into three characters that utilize Vim-specific terminology.\n\nUnderstanding these terms will help you recall the correct keyboard shortcut.\n\nY stands for “yank” in Vim, which is conceptually similar to copying.\nD stands for “delete” in Vim, which is conceptually similar to cutting.\nP stands for “put” in Vim, which is conceptually similar to pasting.\n\nI deliberately use the phrase “conceptually similar to” because these actions are not one and the sa...",
+      "meta_tags": {
+        "description": "How to copy, cut, and paste words, lines, and entire blocks in Vim while in Normal mode, Visual mode, and Visual Block mode.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/homebrew",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:55:45.541800",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nHomebrew\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nHo\nHomebrew\nFeatured in Homebrew\nList Installed Packages With Brew\n\nList the installed packages with Homebrew\n\nRazvan Ludosanu\n\nArticles in Homebrew\n2\n\nNEW\n\nA→Z\n\nList Installed Packages With Brew\n\nList the installed packages with Homebrew\n\nHOMEBREW\nBrew Uninstall Package\n\nRemove installed packages with Homebrew\n\nHOMEBREW\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Wa...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/bash-aliases",
+      "title": "How to create Bash aliases | Warp",
+      "timestamp": "2025-04-23T08:55:47.265852",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nBash\nBash Aliases\n\nTERMINUS BY WARP\n\nCONTENTS\n\nCreate an alias\nAliasing multiple commands\nMaking aliases permanent\nAlias Examples\nCreating Aliases with Arguments\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nBash Aliases\n\nBrett Terpstra\n\nPrincipal Developer, Oracle\n\nPublished: 01/12/2023\n\nBASH\nLINUX\nUNIX\nABOUT TERMINUS\n\nAn alias in Bash (and most shells) is a way to run a long command using a short one. If you repeat a command often in the terminal, an alias can save you a lot of typing. Creating an alias in Bash (and most shells) is pretty easy.\n\nCreate an alias\n\nTo create an alias in Bash:\n\nalias NAME=\"COMMAND TO PERFORM\"\n\n\n(Note that there is no space around the = symbol.)\n\nFor example, to create an alias that performs a long-format listing of files when you type ll, you would use:\n\nalias ll=\"ls -l\"\n\n\nThis will create an alias in the current shell that will be active until the shell is exi...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/vim-copy-paste-2",
+      "title": "How To Copy, Cut, And Paste Words And Lines In Vim | Warp",
+      "timestamp": "2025-04-23T08:55:51.806108",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nVi\nCopy & Paste in Vim / Vi\n\nTERMINUS BY WARP\n\nCONTENTS\n\nVim Copy & Paste Terminology\nCopy, Cutting, and Pasting in Vim/Vi - The Basics\nVim Keyboard Shortcuts\nWhat Happens Under the Hood?\nConclusion\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nCopy & Paste in Vim / Vi\n\nJessica Wang\n\nDeveloper Advocate, Warp\n\nPublished: 20/05/2024\n\nVIM\nVI\nABOUT TERMINUS\nVim Copy & Paste Terminology\n\nThe keyboard shortcuts to copy, cut, and paste can be boiled down into three characters that utilize Vim-specific terminology.\n\nUnderstanding these terms will help you recall the correct keyboard shortcut.\n\nY stands for “yank” in Vim, which is conceptually similar to copying.\nD stands for “delete” in Vim, which is conceptually similar to cutting.\nP stands for “put” in Vim, which is conceptually similar to pasting.\n\nI deliberately use the phrase “conceptually similar to” because these actions are not one and the sa...",
+      "meta_tags": {
+        "description": "How to copy, cut, and paste words, lines, and entire blocks in Vim while in Normal mode, Visual mode, and Visual Block mode.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/chmod-755",
+      "title": "Understanding Chmod 755 - Examples, Flags, and More | Warp",
+      "timestamp": "2025-04-23T08:55:53.676027",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nLinux\nChmod 755\n\nTERMINUS BY WARP\n\nCONTENTS\n\nThe Short Answer\nUsing sudo With chmod 755\nThe difference between chmod 755 And chown 755\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nChmod 755\n\nRazvan Ludosanu\n\nFounder, learnbackend.dev\n\nPublished: 03/08/2023\n\nLINUX\nUNIX\nABOUT TERMINUS\nThe Short Answer\n\nOn Linux and Unix-like operating systems (including macOS), the chmod command is used to change the read, write, and execute permissions of a file or directory.\n\nExecuting the following command:\n\n$ chmod 755 file.txt\n\n\nWill give:\n\nRead, write, and execute permissions to the owner of the file; which is the user account that created the file or has been assigned ownership of the file.\nRead and execute permissions to the group associated with a file; which is a collection of user accounts, such as members of the same team, that have been granted certain permissions on the file.\nRead and execute per...",
+      "meta_tags": {
+        "description": "Learn what chmod with the argument 755 command does, how to use it with `sudo`, and how it differs from the `chown` command.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/git-clone-ssh",
+      "title": "How To Git Clone, Push, and Pull Over SSH | Warp",
+      "timestamp": "2025-04-23T08:55:55.875177",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nGit\nGit Clone, Push, And Pull Over SSH\n\nTERMINUS BY WARP\n\nCONTENTS\n\nThe short answer\nCloning with SSH vs. HTTPS\nSet up SSH for Git\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nGit Clone, Push, And Pull Over SSH\n\nRazvan Ludosanu\n\nFounder, learnbackend.dev\n\nPublished: 13/08/2024\n\nGIT\nABOUT TERMINUS\nThe short answer\n\nTo clone a Git repository using the SSH protocol, you can use the git clone command with a valid SSH URL as follows:\n\n$ git clone git@host:username/repository.git\n\n\nWhere:\n\nhost represents the domain name or the IP address of the hosting server.\nusername represents your user account.\nrepository represents the name of the Git repository you want to clone.\n\nFor example:\n\n$ git clone git@github.com:johndoe/my-app.git\n\nCloning with SSH vs. HTTPS\n\nThe main difference between cloning a remote repository with SSH and HTTPS is the way the authentication is handled.\n\nWhen using HTTPS, Git w...",
+      "meta_tags": {
+        "description": "Learn how to set up an SSH key to clone, push, and pull a Git repository over the SSH protocol.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/bash-comments",
+      "title": "How to comment in Bash | Warp",
+      "timestamp": "2025-04-23T08:55:58.307335",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nBash\nBash Comments\n\nTERMINUS BY WARP\n\nCONTENTS\n\nWhen to use Bash comments\nSingle-line comments\nMultiline/Block comments\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nBash Comments\n\nPrianka Subrahmanyam\n\nSoftware Engineer, Modern Treasury\n\nPublished: 13/08/2024\n\nBASH\nLINUX\nUNIX\nABOUT TERMINUS\nWhen to use Bash comments\n\nJust like comments are used in other programming languages, you can also use them throughout your shell scripts to make them more readable. For example, if you’ve written a script for others to use, comments help explain the purpose of certain lines. They can also help you, the developer, quickly remember your thought process from when you wrote the script.\n\nComments should be used to complement clean, organized Bash scripts. They should only be used to explain less obvious parts of the code. For example, most developers reading an echo statement will know how it works, but a us...",
+      "meta_tags": {
+        "description": "Discover how to add and manage comments in your Bash scripts. Improve script readability and maintainability.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/vim",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:01.138777",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nVim\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nVi\nVim\nFeatured in Vim\nVim Find And Replace\n\nYou can use either the substitute command or the slash and dot method to search for patterns and replace with different values.\n\nGlory Kim\n\nSelect all in Vim / Vi\n\nSelect all and copy, paste, or delete the contents\n\nGlory Kim\n\nArticles in Vim\n14\n\nNEW\n\nA→Z\n\nCopy & Paste in Vim / Vi\n\nCopy (Yank), Paste (Put) and Cut (Delete) in Vim\n\nVIMVI\nCopy & Paste in Vim / Vi\n\nCopy (Yank), Paste (Put) and Cut (Delete) in Vim\n\nVIMVI\nHow to delete lines in Vim / Vi\n\nThe best answer depends on which mode you use\n\nVIMVI\nGo To End of File in Vim / Vi\n\nSelect and delete to the end of a file in Vim\n\nVIMVI\nSearching in Vim\n\nSearch forward, backwar...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/git",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:04.243145",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nGit\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nGi\nGit\nFeatured in Git\nGit Clone, Push, And Pull Over SSH\n\nLearn how to set up an SSH key to clone, push, and pull a Git repository over the SSH protocol.\n\nRazvan Ludosanu\n\nUndo A Git Pull\n\nHow to effectively remove the commits introduced by a pull in Git using git-reset and preserve your local changes using git-stash. Also, how to cancel an unmerged pull request on GitHub.\n\nGlory Kim\n\nArticles in Git\n18\n\nNEW\n\nA→Z\n\nChange Git Origin Remote URL\n\nLearn how to change the remote url of a local git-enabled directory using the git-remote command and Warp's workflow feature.\n\nGIT\nAmend a Git Commit\n\nMaking changes to a previous commit\n\nGIT\nGit Clone, Push, And Pull Over SSH\n\n...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/searching-in-vim",
+      "title": "How to Search in Vim / Vi | Warp",
+      "timestamp": "2025-04-23T08:56:06.270495",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nVi\nSearching in Vim\n\nTERMINUS BY WARP\n\nCONTENTS\n\nSearch for next word (forward search)\nSearch for previous word (backwards search)\nFind current word\nCase insensitive search\nHighlight search\nSearch for any line starting with a word\nSearch for any line ending with a word\nEscaping special characters\nFind tabs in file\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nSearching in Vim\n\nNeeran Gul\n\nStaff Site Reliability Engineer, Mozn\n\nPublished: 31/01/2024\n\nVIM\nVI\nABOUT TERMINUS\nSearch for next word (forward search)\n\nTo search in vim, open up your file with vim vim myfile.txt, and press ESC to switch to normal mode. Type / followed by the word you are searching for. For example, if we want to search for ‘ERROR’ in our file. We type /ERROR. This will take us to the first occurrence of the word.\n\nTo find the next occurrence, simply type n. And to go back to the previous occurrence, type N. To stop sear...",
+      "meta_tags": {
+        "description": "Learn how to search forward, search backward, case insensitive search, and more in this introduction to searching in Vim.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/git-commit-history",
+      "title": "View Commit History - git log, git reflog, and git show | Warp",
+      "timestamp": "2025-04-23T08:56:08.836136",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nGit\nGit Commit History\n\nTERMINUS BY WARP\n\nCONTENTS\n\nViewing a single git commit’s history\nViewing a git branch’s entire history\nUsing GitHub to show commit history\nUse git reflog to recover lost commits\nUse AI to recall these various git commit history commands\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nGit Commit History\n\nGlory Kim\n\nSoftware Engineer, Loom\n\nPublished: 01/12/2023\n\nGIT\nABOUT TERMINUS\nViewing a single git commit’s history\n\nThe git show command is used to view the changes of a specific commit:\n\ngit show <commit-hash>\n\n\nFor example, I can type git show 0f8497 to see the log message and the changes that occurred in this specific commit. On the left, we have the command and the right pane is the result with the diff.\n\n‍\n\nShow the last git commits\n\nTo see the changes made in the last commit without using a hash, you can use the git show HEAD command. The HEAD here refers to the m...",
+      "meta_tags": {
+        "description": "different ways to use Git to understand how to navigate the commit history of a repository or branch",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/add-user-to-sudoers",
+      "title": "How To Add a User to Sudoers in Linux, Ubuntu, and more | Warp",
+      "timestamp": "2025-04-23T08:56:12.591150",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nLinux\nHow to Add a User to Sudoers\n\nTERMINUS BY WARP\n\nCONTENTS\n\nAdd user to sudoers with the usermod command\nAdd users to sudoers using the\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nHow to Add a User to Sudoers\n\nRazvan Ludosanu\n\nFounder, learnbackend.dev\n\nPublished: 03/08/2023\n\nLINUX\nUNIX\nABOUT TERMINUS\n\nOn Unix and Linux, the superuser account, also known as root, admin, or supervisor, is a special user account capable of making unrestricted, system-wide changes. It is mostly used for system administration tasks such as changing the ownership of files or binding network ports. However, it is sometimes necessary to allow standard user accounts to perform some of these sensitive actions, by granting them elevated privileges and access through the use of the sudo command.\n\nIn this article, we'll cover two methods for adding a user, or a group of users, to the sudoers list.\n\nAdd user to sudo...",
+      "meta_tags": {
+        "description": "You can use either the usermod command or make changes directly to the sudoers file in order to grant elevated privileges to a user or a group of users.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/vim-find-and-replace",
+      "title": "Two Ways to Find and Replace in Vim / Vi | Warp",
+      "timestamp": "2025-04-23T08:56:15.334595",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nVi\nVim Find And Replace\n\nTERMINUS BY WARP\n\nCONTENTS\n\nThe short answer\nReplacing all the occurrences of a pattern\nReplacing the occurrences of multiple patterns\nMaking the substitute command case insensitive\nReplacing the occurrences of special characters\nReplacing double quotes with single quotes\nLimiting the pattern substitution to specific lines\nDeleting the occurrences of a pattern\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nVim Find And Replace\n\nGlory Kim\n\nSoftware Engineer, Loom\n\nUpdated: 25/06/2024\n\nPublished: 31/12/2022\n\nVIM\nVI\nABOUT TERMINUS\nThe short answer\n\nIn Vim, to search and replace the first occurrence of a string on the current line (i.e. the line the cursor is on), you can use the substitute command (:s) as follows:\n\n:s/<pattern>/<replacement>\n\n\nWhere:\n\npattern is the string you want to replace.\nreplacement is the string you want to replace the pattern with.\n\nFor example, t...",
+      "meta_tags": {
+        "description": "You can use either the substitute command or the slash and dot method to search for patterns and replace with different values.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/git-add-submodule",
+      "title": "How To Get Started With Adding a Submodule In Git | Warp",
+      "timestamp": "2025-04-23T08:56:18.108740",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nGit\nAdding a Submodule in Git\n\nTERMINUS BY WARP\n\nCONTENTS\n\nAdding a submodule\nTracking submodule changes\nAdding a branch to a submodule\nIssues with submodules\nAlternatives to submodules\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAdding a Submodule in Git\n\nPhilip Wilkinson\n\nSoftware Engineer, Amazon\n\nPublished: 31/01/2024\n\nGIT\nABOUT TERMINUS\n\nAfter you have created a git repository one step you may want to take is to add a submodule.  This is a way to include one git repository as a subdirectory within another repository. This allows you to combine multiple independent repositories into a single large project, providing you with a way to manage dependencies across several projects.\n\nAdding a submodule\n\nTo add a submodule to an existing project, you can use the following git submodule add command:\n\n$ git submodule add <repository_url> <subdirectory>\n\n\nWhere the <repository_url> is the URL of...",
+      "meta_tags": {
+        "description": "This post will show you how to simply add a submodule to a local repository, clone a repository with a submodule, and work within a repository that has a submodule",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus-topics",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:21.564733",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTopics\nFEATURED TOPIC\nKu\nKubernetes\n21\nVIEW ALL IN KUBERNETES\nGet Kubernetes Logs With kubectl\n\nLearn how to get the logs of pods, containers, deployments, and services in Kubernetes using the kubectl command. Troubleshoot a cluster stuck in CrashloopBackoff, ImagePullBackoff, or Pending error states.\n\nEkene Ejike\n\nKUBERNETES\nTail Logs In Kubernetes\n\nLearn how to tail and monitor Kubernetes logs efficiently to debug, trace, and troubleshoot errors more easily using the kubectl command.\n\nMuhammad Khabbab\n\nKUBERNETES\nKubernetes vs Docker: The Backbone of Modern Backend Technologies\n\nLean the fundamentals of the Kubernetes and Docker technologies and how they interplay with each ot...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/bash-concatenate-strings",
+      "title": "Concatenate Strings in Bash | Warp | Warp",
+      "timestamp": "2025-04-23T08:56:24.997345",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nBash\nBash Concatenate Strings\n\nTERMINUS BY WARP\n\nCONTENTS\n\nQuick Reference\nWhat is Concatenation?\nBasic Concatenation\nConcatenation with multiple variable types\nConcatenation with += operator\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nBash Concatenate Strings\n\nPrianka Subrahmanyam\n\nSoftware Engineer, Modern Treasury\n\nPublished: 01/12/2023\n\nBASH\nLINUX\nUNIX\nABOUT TERMINUS\nQuick Reference\n$ X=\"String\"\n $ X+=\"Concatenation\" \n $ echo $X\n \n # Output\n StringConcatenation\n\nWhat is Concatenation?\n\nConcatenation is the process of joining two strings together into one result. Some common use cases include creating a string containing multiple variables, and formatting messages containing user-defined inputs.\n\nBasic Concatenation\n\nIn Bash, when variables or strings are written one after another, they automatically concatenate. In the following examples, the code will echo the same output to the termin...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/select-all-in-vim-vi",
+      "title": "Select all in Vim / Vi | Warp",
+      "timestamp": "2025-04-23T08:56:27.889305",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nVi\nSelect all in Vim / Vi\n\nTERMINUS BY WARP\n\nCONTENTS\n\nVim copy all lines\nVim paste all\nVim delete all lines\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nSelect all in Vim / Vi\n\nGlory Kim\n\nSoftware Engineer, Loom\n\nPublished: 13/08/2024\n\nVIM\nVI\nABOUT TERMINUS\n\nTo perform the command traditionally known as “ctrl + a” to select all in Vim, do ggVG.\n\nBreaking it down:\n\n1.\n\nCheck that you are in normal mode - hit the ESC key.\n\n2.\n\nMove the cursor to the beginning of the file - gg.\n\n3.\n\nEnter visual mode which lets you see the highlight portions - V\n\nPressing V enters line visual mode while pressing lower case v will enter character visual mode. Being in v mode will cause the below command to highlight until the first character of the last line in the file.\n\n1.\nSelect from the current cursor position to the end of the file - G\n\nAt this point, you can scroll up and down or use Vim commands to de-se...",
+      "meta_tags": {
+        "description": "Using Vim to select all lines of code in a file and copy, paste, or delete the contents.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/learning-docker-using-lazydocker-warp",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:31.278529",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nDocker\nLearning Docker (The Easy Way) Using LazyDocker & Warp\n\nTERMINUS BY WARP\n\nCONTENTS\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nLearning Docker (The Easy Way) Using LazyDocker & Warp\n\nJessica Wang\n\nDeveloper Advocate, Warp\n\nUpdated: 22/08/2024\n\nDOCKER\nABOUT TERMINUS\nSet up Docker\n1. Download Docker.\n\n‍\nYou can find instructions here for installing it for your device, depending on if you’re on Mac, Linux, or Windows.\nhttps://docs.docker.com/get-docker/\n‍\n\nTo check if you already have Docker installed, you can run this command:\n\ndocker --version\n\n2. Open up the Docker application on your device.\nSet up LazyDocker and Warp\n\nThese steps are optional, but I personally think that downloading these two tools is the easiest way to learn Docker. Here is why:\n\nLazyDocker is a terminal-based UI for Docker that provides an interface for managing Docker containers, images, volumes, and networks. I...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/terminus/bash-case-statement",
+      "title": "Bash Case Statement Syntax and Examples | Warp",
+      "timestamp": "2025-04-23T08:56:33.221344",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nBash\nBash Case Statement\n\nTERMINUS BY WARP\n\nCONTENTS\n\nCase Statement Syntax\nWhen to use If-else vs a Case statement\n💡Tip from Warp\n🧠 Did you know?\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nBash Case Statement\n\nAmit Jotwani\n\nDeveloper Relations, Warp\n\nPublished: 03/08/2023\n\nBASH\nLINUX\nUNIX\nABOUT TERMINUS\n\nA case statement is a conditional control structure that allows a selection to be made between several sets of program statements. It is a popular alternative to the if-then-else statement when you need to evaluate multiple different choices.\n\nCase Statement Syntax\ncase expression in\n    pattern1 )\n      statements ;;\n    pattern2 )\n      statements ;;\n    ...\n  esac\n\n\n‍\n\nTo create a case statement:\n\n1.\nStart with the word case, and follow it with a variable or an expression you’re trying to match, and end the line with the word in.\n2.\nNext, list a pattern or value you want to match again...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/topic/grep",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:37.568868",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nTerminus\nTopics\nGrep\n\nTERMINUS BY WARP\n\nTOPICS\n\nBash\nDocker\nGit\nGrep\nHomebrew\nView all topics\nAI, at your command.\n\nWarp is a modern, Rust-based terminal with AI built in so you can build great software, faster.\n\nGet Started\n\nor learn more\n\nTOPIC\nGr\nGrep\nFeatured in Grep\nHow to Make Grep Case Insensitive\n\nBy default, grep is case sensitive\n\nJessica Wang\n\nExclude With Grep\n\nExcluding unwanted key terms or directories when using grep\n\nRazvan Ludosanu\n\nArticles in Grep\n7\n\nNEW\n\nA→Z\n\nGrep Count\n\nEfficiently count lines or occurrences in a file.\n\nGREP\nExclude With Grep\n\nExcluding unwanted key terms or directories when using grep\n\nGREP\nGrep In a Directory\n\nLearn how to use grep to search for words and phrases within a directory and all its subdirectories, a specific directory, all files, and other variations.\n\nGREP\nGrep Across Multiple Lines\n\nGuide on several cases of using grep across multiple lines\n\nGREP\nHow to Mak...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/the-terminal-is-on-life-support-is-it-worth-saving",
+      "title": "The terminal is on life support. Is it worth saving? | Warp",
+      "timestamp": "2025-04-23T08:56:41.252324",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe terminal is on life support. Is it worth saving?\n\nZach Lloyd\n\nJuly 12, 2021\n\nThis post introduces Warp, a new Rust-based terminal we have been working on over the past year. Warp keeps what's best about the terminal while making it more modern, accessible, and powerful for all developers.\n\nWhy doesn’t the terminal work like the rest of your apps? Developer tools have evolved towards reusability, composability, and collaboration. Meanwhile, terminals are inherently single-user, linear, and ephemeral.\n\nFor instance:\n\nDevelopers work in teams, but terminals don’t support collaboration\nDevelopers rely on sharing knowledge, but all my terminal work disappears every time I close a session\nDevelopers work across machines, but my terminal environment is tethered to my computer\nDevelopers are becoming accustomed to nice interfaces, but the terminal inflicts pain and makes me feel like an idiot when I try to do mode...",
+      "meta_tags": {
+        "description": "Learn how Warp hopes to modernize the terminal experience with team and collaborative features.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/security@warp.dev",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:43.383220",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nPage not found.\n\nThe page you are looking for doesn't exist or has been moved.\n\nGo home\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/sales@warp.dev",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:56:45.347683",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nPage not found.\n\nThe page you are looking for doesn't exist or has been moved.\n\nGo home\n\nTrusted by hundreds of thousands of professional developers\n\nDownload Warp to get started\nDownload for Mac\nAll Systems Operational\n\nProduct\n\nModern Terminal\nWarp Drive\nAI Tools\nSecurity\nAll Features\nChangelog\nMac Terminal\nMac Terminal Themes\nLinux Terminal\nWindows Terminal\n\nExplore\n\nDocumentation\nDownload\nPricing\nWarp for Coding\nEnterprise\nHow Warp Works\nCommands.Dev\nTerminus\nCompare Terminal Tools\nDo Things with Warp\n\nCompany\n\nAbout\nHow We Work\nCareers\nContact\nBlog\nPrivacy\nFAQs\nTerms\n\nALL RIGHTS RESERVED © 2025",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/privacy-policy",
+      "title": "Privacy at Warp | Warp",
+      "timestamp": "2025-04-23T08:56:48.877760",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nPrivacy Notice\nLast modified March 12, 2025\n\nThank you for your interest in Warp! Warp is a new terminal that helps developers and development teams be more productive. This Privacy Notice explains how we collect, use, disclose, and otherwise process personal information in connection with our Service.\n\nWhen we use the terms “Warp”, “Warp.dev”, “we”, “us”, or “our” in this Privacy Notice, we are referring to Denver Technologies, Inc., d.b.a. Warp. When we use the term “Service,” we are referring to all of the services that we offer on our own behalf, including our product offerings and the web pages that post or link to this Privacy Notice.\n\nOur Collection of Personal Information\n\nDuring the normal usage of Warp, we will sometimes collect personal information, either directly from you or from our third-party providers and partners; our philosophy is to be as transparent as possible about the information we col...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "13"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/ask-adjust-the-future-of-productivity-interfaces",
+      "title": "Ask & Adjust: The Future of Productivity Interfaces | Warp",
+      "timestamp": "2025-04-23T08:56:52.417859",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nAsk & Adjust: The Future of Productivity Interfaces\n\nZach Lloyd\n\nApril 12, 2023\n\nThis article describes my best guess of how productivity apps will work in a future where Generative AI is everywhere. I’m writing this from the perspective of someone who is currently building a productivity app, so it’s been on my mind a lot lately.\n\nBy productivity apps, I mean things like Figma, Google Docs, VSCode, Notion - basically any software where knowledge workers spend their days writing, designing, coding, analyzing, etc1 I’m particularly interested in “horizontal” productivity apps - ones used to produce a wide variety of artifacts or accomplish lots of different tasks, rather than very narrow ones (e.g. an app that just creates marketing blogs). Finally, I’m discussing AI in professional tools, not consumer apps, where I think the path will be different.\n\nIn case you don’t have time to read the entire piece, the tl;...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/warp-for-linux",
+      "title": "Warp, the modern terminal, is now available for Linux | Warp",
+      "timestamp": "2025-04-23T08:56:55.148027",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWarp, the modern terminal, is now available for Linux\n\nAloke Desai and David Stern\n\nFebruary 22, 2024\n\nWarp is now available for Linux! You can install Warp on most Linux distributions, including Ubuntu, Fedora, Arch Linux or Red Hat. The initial set of available packages include:\n\n.deb (apt)\n.rpm (yum/dnf/zypper)\n.pkg.tar.zst (pacman)\n.AppImage\nDownload Warp\n\nThe Windows version of Warp is in development now and slated to release later this year. You can join the Windows waitlist today and be the first to know when it’s available to download.\n\nWarp ♥️ Linux\n\nSince launching on Mac, Linux support has been Warp’s number one upvoted GitHub issue.\n\nThis isn’t surprising: Linux is a uniquely important platform for developers, and the terminal is a uniquely important tool on Linux. The terminal is often the primary, and sometimes the only, way that developers use Linux machines. And Linux machines are everywhere: f...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/small-but-mighty-new-features-in-warp",
+      "title": "Small But Mighty New Features in Warp | Warp",
+      "timestamp": "2025-04-23T08:56:58.660017",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nSmall But Mighty New Features in Warp\n\nWarp\n\nOctober 5, 2022\n\nToday, we’re announcing a launch of features we’ve built over the past quarter, including a big improvement to session management. You can navigate to and from terminal and IDE quickly, save your tabs and panes, and customize your tabs, and more.\n\nWe’ve made a minute-long video to share the updates.\n\nHere’s a quick roundup of everything that’s new.\n\n1. Session Navigation Palette\n\nQuickly switch terminal sessions by using the Session Navigation Palette. Bring up the palette by pressing SHIFT-CMD-P, and search for the session you want to open.\n\n2. Launch configurations\n\nSave a configuration of windows, panes, tabs titles, tab colors, and commands to execute at launch. Bring up the launch configuration palette by pressing CTRL-CMD-L.\n\n3. Tab colors\n\nChange tab colors and tab names. Our team uses this to distinguish between the server project and the cl...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/whos-behind-warp-meet-the-team",
+      "title": "Who’s behind Warp? - Meet the team | Warp",
+      "timestamp": "2025-04-23T08:57:02.618267",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWho’s behind Warp? - Meet the team\n\nAgata Cieplik\n\nSeptember 1, 2021\n\nMy idea for a perfect opening line of this blog post was to use a quote about the importance of building a great team. I scrolled through pages of quotes from personas such as Henry Ford, or Michael Jordan, eventually settling on… nothing. We all know that teamwork is critical and a huge part of engineering work, no need to back this up by famous people’s quotes! It becomes even more important in small companies and startups, such as Warp—where everyone works together to deliver the best terminal experience to other developers. In the last post we uncovered a little bit about how we think about building the product; in today’s, I’ll introduce you to people behind Warp and the story of how we built the new terminal!\n\nWhy did I join Warp?\n\nLet me start by telling you my part of this story.\n\nAs a person who rides a 700lbs motorcycle that doesn’...",
+      "meta_tags": {
+        "description": "Learn more about the people behind Warp and get a glimpse into our team culture.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-to-set-up-powerlevel10k-on-warp",
+      "title": "How to enable Powerlevel10k in Warp to make your zsh prompt more beautiful and useful | Warp",
+      "timestamp": "2025-04-23T08:57:06.956386",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow to enable Powerlevel10k in Warp to make your zsh prompt more beautiful and useful\n\nMelanie Crissey\n\nJuly 25, 2023\n\n“Have nothing in your [terminal] that you do not know to be beautiful or believe to be useful.”\n\nIn this post, we’ll walk you through how to customize your zsh prompt so it’s both beautiful and useful when you’re working with the Warp terminal on your Mac computer.\n\nAlready familiar with p10k? Skip to the setup.\n\nWhat is Powerlevel10k?\n\nPowerlevel10k (sometimes called “p10k”) is a plugin you can use to customize the appearance of your zsh prompt. Billed by its creator Roman Perepelitsa as “A Zsh theme,” p10k is widely adored by developers, with more than 37K GitHub stars as of time of writing.\n\nCompared to no-rcs (the default zsh prompt with zero .rc files), p10k gives you:\n\nProminent visual breaks in your terminal output so you can easily locate recent commands within a wall of text,\nRicher c...",
+      "meta_tags": {
+        "description": "Learn how to set up Powerlevel10k in the Warp terminal to enhance your zsh prompt. This step-by-step guide covers font installation, prompt configuration, and the use of Warp’s features to create a visually appealing terminal environment.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/dont-accidentally-leak-secrets-from-your-terminal",
+      "title": "Don’t accidentally leak secrets from your terminal | Warp",
+      "timestamp": "2025-04-23T08:57:10.363539",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDon’t accidentally leak secrets from your terminal\n\nMelanie Crissey\n\nOctober 19, 2023\n\nSecret Redaction is available on all Warp plans. You can turn it on today by navigating to Settings → Privacy → Secret redaction or by searching for “secret redaction” in the Command Palette (CMD - P).\n\nRedact your secrets while demoing or working in public\n\nHave you ever found yourself working in your terminal from a location that’s, let’s say, less than private?\n\nMaybe you need to give a code demo on a conference stage or a live stream. Maybe you’re screen sharing with some coworkers who have different access privileges. Or, maybe you’re simply working from a coffee shop, an airplane, or a crowded coworking space for the day.\n\nWhenever you’re working in public, you need to be extra careful about what information is on your screen, in case somebody’s looking over your shoulder—or worse, recording a “day in the life” selfie ...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/fast-company-most-innovative-companies-2024",
+      "title": "Fast Company includes Warp on the Most Innovative Companies List 2024 | Warp",
+      "timestamp": "2025-04-23T08:57:14.073232",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nFast Company includes Warp on the Most Innovative Companies List 2024\n\nZach Lloyd\n\nMarch 19, 2024\n\nToday Fast Company announced their World’s Most Innovative Companies of 2024 list, one of its most anticipated editorial efforts of the year.\n\nWarp was included on the list (#10) of Most Innovative Companies for 2024 in the Enterprise sector, a category recognizing innovation from companies serving other businesses.\n\nFast Company recognized Warp for “modernizing the command line, a vital computing tool that has seen few updates in decades despite being essential for many developers and IT workers to do their jobs.”\n\nCheck out the full list and the write-up on Warp\n\nMilestone innovations for the terminal\n\nSome of the milestone innovations that have led us to this moment include:\n\nShipping a modern, IDE-like input editor for the terminal, allowing developers to use their mouse and cursor on the command line\nOrigina...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/configure-input-at-the-top-in-warp",
+      "title": "Configure input at the top in Warp | Warp",
+      "timestamp": "2025-04-23T08:57:17.314047",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nConfigure input at the top in Warp\n\nMelanie Crissey\n\nApril 6, 2023\n\nToday we’re releasing two new modes for command line input position in the Warp terminal: input starting at the top and input pinned to the top.\n\nThis has been one of the most highly requested features for Warp since the beta launch, and we’re so glad to make this available for Warp developers.\n\nA side-by-side comparison of Reverse Mode vs. Classic Mode.\n\nLet’s go into why we built this and how to try out these new settings.\n\nAn ergonomic improvement for the terminal\n\nBy default, Warp keeps the input prompt and command line “pinned” to the bottom of the view. This is similar to how inputs work for other work applications like Slack. Your past input and output get grouped together in blocks that flow up and out of view. You can scroll up or navigate up to visit your past commands. However, this is rather unusual behavior for a terminal applicat...",
+      "meta_tags": {
+        "description": "Learn how to configure your terminal's input position in Warp.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/drag-and-drop-to-customize-your-command-line-prompt",
+      "title": "Drag and drop to customize your command line prompt. Why not? | Warp",
+      "timestamp": "2025-04-23T08:57:19.908317",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDrag and drop to customize your command line prompt. Why not?\n\nMelanie Crissey\n\nAugust 23, 2023\n\nWarp’s new customizable prompt lets you add useful metadata without touching your config files.\n\nIn this post we’ll introduce you to Warp’s customizable prompt builder and walk you through how it works.\n\nContext in your prompt keeps you from getting lost\n\nCustom prompts like Starship and Powerlevel10k are popular for a reason. They’re beautiful, useful, and grounding. Custom segments that display your working directory or your Git branch tell you exactly where you’re working. Useful metadata like the date and time make it easy to scan recent commands like you would your logs.\n\nIt only takes a little extra effort to step through a setup wizard or edit your .zshrc file.\n\nBut, what if you didn’t have to mess with that at all?\n\nEnter Warp’s new customizable prompt!\n\nNow you can add context, like timestamps, to your War...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/show-rich-history-in-command-search",
+      "title": "Show rich history in Command Search. Why not? | Warp",
+      "timestamp": "2025-04-23T08:57:23.470157",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nShow rich history in Command Search. Why not?\n\nMelanie Crissey\n\nAugust 24, 2023\n\nNow Warp shows you richer information about the commands you’ve run recently so you can run them again with higher confidence.\n\nThe fastest way to review your command history\n\nOne of the most powerful features in Warp is the Command Search panel. You can access it with CTRL + R.\n\nUnlike the Command Palette, which gives you a global search for everything in Warp including feature navigation, the Command Search is scoped to show you artifacts that are ready to run on the command line. Recent commands and named workflows show up in your history list.\n\nBut locating the right command in your recent history isn’t an easy feat. You may find yourself navigating up and down, trying to remember which command actually worked.\n\nWhat if your terminal could give you some clues about which commands succeeded or failed?\n\nCheck out rich history fo...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/december-drop",
+      "title": "December 2024 Release | Warp",
+      "timestamp": "2025-04-23T08:57:27.998059",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDecember Release: Enhanced session sharing, Warp on Web, expanded AI capabilities, and a new icon\n\nOlivia Johnston\n\nDecember 11, 2024\nSession Sharing brings multiplayer to your command line\n\nWith Session Sharing you can instantly share web links to your terminal session and pass controls to a teammate. Teammates will be able to follow along with your session and, with your permission, take control through the Warp app or via a web link. No Warp account needed.\n\nSession Sharing allows you to start working together instantly, with nothing more than a link in a Slack channel. It’s perfect for all of those moments where you need a second (or third, or fourth) pair of eyes on a problem: you’ve hit an error and need to phone a friend; you’re onboarding remotely and having trouble setting up your environment; you’re on-call and need help in your terminal “war room”.\n\nSession Sharing isn’t just for when things are goi...",
+      "meta_tags": {
+        "description": "Learn more about Warp's December 2024 Release: enhanced session sharing, Warp on Web, AI enhancements, and a new icon",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/prose-about-poetry",
+      "title": "Some prose about Poetry: The Python package and dependency manager | Warp",
+      "timestamp": "2025-04-23T08:57:32.648041",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nSome prose about Poetry: The Python package and dependency manager\n\nJess Lin\n\nJune 7, 2023\n\nIf you’ve been writing Python for any amount of time, you’ve probably run into pip and virtualenv, and venv. Maybe you’ve used pyenv too, and Pipenv, and for the data scientists out there, Anaconda. If you’ve been at it for a while… remember disutils and easy_install?\n\nPoetry is one tool that’s emerged as a crowd favorite. In this post, we’ll highlight some features of Poetry that make it easy to use. Where visual examples are helpful, we’ll show inputs and outputs using the Warp terminal, which was recently updated to better support Poetry’s shell command.\n\nNotably, Poetry simplifies and improves upon what’s come before. To grok what Poetry is and does—why add a tool when there are so many?—let’s take a quick look at history. Git history.\n\nWhy was Poetry created?\n\nThough the current Poetry README has evolved, in an ear...",
+      "meta_tags": {
+        "description": "Discover how to efficiently manage Python packages and dependencies using Poetry, and compare it with tools like venv, Pipenv and virtualenv to enhance your workflow.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-to-draw-styled-rectangles-using-the-gpu-and-metal",
+      "title": "How to draw styled rectangles using the GPU and Metal | Warp",
+      "timestamp": "2025-04-23T08:57:37.675710",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow to draw styled rectangles using the GPU and Metal\n\nMichelle Lim\n\nNovember 18, 2021\n\nThis is a tutorial on drawing styled rectangles using Metal graphics shaders. Learn how to draw a rectangle, add borders, round the rectangle’s corners, and fill the rectangle with linear gradients.\n\nWhy render on the GPU\n\nFor apps that require fast rendering, such as video processing apps or 3D game apps, using the GPU for rendering is often required. The GPU has more cores and so can perform data-parallel calculations like calculating pixel position and color very quickly.\n\nThe tradeoff of using the GPU is that we have to implement shaders. However, for a modern UI app, you'd only have to implement them for glyphs, icons, and rectangles. Warp's UI, for example, is entirely composed of those three primitives.\n\nRectangles, glyphs, and icons are all the primitives we used to compose Warp's UI.\n\nThis tutorial will focus just ...",
+      "meta_tags": {
+        "description": "This is a tutorial on drawing styled rectangles using Metal graphics shaders. Learn how to draw a rectangle, add borders, round the rectangle’s corners, and fill the rectangle with linear gradients.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "21"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-we-designed-themes-for-the-terminal-a-peek-into-our-process",
+      "title": "How we designed themes for the terminal - a peek into our process | Warp",
+      "timestamp": "2025-04-23T08:57:40.789902",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow we designed themes for the terminal - a peek into our process\n\nShikhiu\n\nOctober 26, 2021\n\nIt’s no secret that people love to customize their UIs. With the rampant adoption of light mode and dark mode and the long history of themes in terminals and IDEs, the power to make your UI fit your functionality or aesthetic needs is huge. Here at Warp we knew how important it is to create a great theming system for our users. Some key goals were to ensure compatibility with existing themes, easy customization and sharing.\n\nLet’s start with how themes work in existing terminals and what we wanted to improve.\n\n1.\nThemes only control the text display, yet the rest of the UI remains the same. We want to deliver a more cohesive and immersive experience.\n2.\nThemes are hard to control, you have to turn a ton of individual “knobs” in order to get something that looks good. It’s not easy to get what you want and add your per...",
+      "meta_tags": {
+        "description": "Read about how our designer, Shikhiu Ing, thought about theming in Warp and what makes it different from other terminal theming experiences.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/2024-in-review",
+      "title": "Warp Wrapped: 2024 in Review | Warp",
+      "timestamp": "2025-04-23T08:57:44.769345",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWarp Wrapped: 2024 in Review\n\nCatherine Yeo\n\nJanuary 6, 2025\n\nHappy new year! In 2024, our team at Warp:\n\nMerged 7294 pull requests\nClosed 815 user issues on GitHub\nSponsored 16 hackathons + conferences\nFed 200 devs who ordered burrito wraps directly from Warp 🌯\n\nWe also gave our brand a makeover, partnered with OpenAI to launch a ChatGPT desktop integration, and were named one of Fast Company's most innovative companies of 2024 in the enterprise category. To celebrate our biggest year yet, we’re looking back at some of our favorite features and improvements we shipped last year.\n\nCore Experience\n\nYour feedback shapes Warp, and this year we tackled some of your biggest requests.\n\nWarp is on Linux\n\nIn February, we released Warp for Linux! We’re particularly proud that we were able to share ~98% of the codebase with our macOS app. You can now install Warp on most Linux distributions, (e.g. Ubuntu, Fedora, Arch L...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/free-preview-extended",
+      "title": "Free preview extended for Warp AI and Warp Drive for teams | Warp",
+      "timestamp": "2025-04-23T08:57:48.618380",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nFree preview extended for Warp AI and Warp Drive for teams\n\nMelanie Crissey\n\nOctober 4, 2023\n\nIf you’re currently using Warp AI or Warp Drive with a team, here’s some good news for you: the free preview is being extended!\n\nThis blog post explains why the free preview is being extended and what you can expect next.\n\nTL;DR – Our new self-service billing system is taking longer to build than we originally anticipated.\n\nWhat’s the free preview and why is Warp extending it?\n\nThis year, Warp introduced two major new features that transform the way we work in the command line terminal: Warp AI and Warp Drive.\n\nWarp AI has been in free preview since it launched in March of this year, with a temporary limit of 100 requests per day. Thousands of developers are using Warp AI to generate command suggestions or chat through complex setups.\n\nWarp Drive for team collaboration has been in free preview since it launched in Jun...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/docker-enterprise-case-study",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:57:51.918696",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDocker x Warp\n\nOlivia Johnston\n\nApril 21, 2025\n\nWarp’s journey with Docker began when a team member went looking for a more user-friendly terminal experience. As she started saving her most-used workflows in Warp Drive, she realized it could streamline repetitive workflows and improve team productivity.\n\nStarting Point\n\nThe Docker provisioning team was dealing with a series of highly manual, repetitive processes. That long task list created a few key challenges:\n\nOnboarding was difficult: New hires had to rely on a lengthy Notion document, and it typically took around four weeks to get fully ramped up.\n\nNo single source of truth: When processes changed, there wasn’t a clear way to keep everyone in sync.\n\nManual, fragmented processes: Many tasks required jumping between GitHub and internal docs to find the right command or workflow.\n\nThe team saw an opportunity: by solving these pain points, they could unlock m...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-i-accessed-warps-special-pride-theme",
+      "title": "How I Accessed Warp's Special Pride Theme | Warp",
+      "timestamp": "2025-04-23T08:57:55.568687",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow I Accessed Warp's Special Pride Theme\n\nJess Wang\n\nJune 16, 2022\nIntroduction\n\nIn my high school days, I was obsessed with switching out the themes of my terminal. It was cool that I was able to customize a tool that, for the most part, isn’t the most advanced in terms of user interface. It was also a nice way to subtly showcase my personality and hobbies, similar to a poster I might tape up in the wall of my room. For many years, my terminal wallpaper was the famous meme of Saitama from One Punch Man (if you know, you know).‍\n\n‍In this blog, I am going walk you through how to customize your terminal to Warp’s pride theme in honor of pride month.\n\nHow I Customized My Terminal to Use Warp's Special Pride Theme\n\nFor context, Warp has an open source repo for its theme extension point, meaning anybody can contribute themes that you can then download into your local version of Warp. There are two options:\n\nOptio...",
+      "meta_tags": {
+        "description": "Learn how to go the extra step in customizing your Warp theme. We walk you through the steps of getting Warp's specially-designed Pride theme from our open source repository into Warp's theme picker.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds",
+      "title": "Using tree data structures to implement terminal split panes - more fun than it sounds | Warp",
+      "timestamp": "2025-04-23T08:58:02.954471",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nUsing tree data structures to implement terminal split panes - more fun than it sounds\n\nKevin Yang\n\nJanuary 19, 2022\n\nThis is how we used tree data structures to build split panes in our terminal app.\n\nMost popular command line tools and code editors like VSCode and Tmux support split panes: they provide a handy way for users to visually organize different workflows and keep track of processes that are happening in parallel. One of the first things I learned when doing web development was to have two panes – one for running the server and one for checking and pushing code to Github.\n\nUsing split panes is one thing; building them is another. I never thought I would need to build split panes from scratch until I joined Warp – at Warp, we are building a high-performance terminal written entirely in Rust.\n\nAs part of building it, we had to build native split panes. Here are our  key product requirements. Developer...",
+      "meta_tags": {
+        "description": "This is how we used tree data structures to build split panes in our terminal app.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "18"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/replace-git-cheat-sheet-ai-command-search",
+      "title": "Replacing Your Git Command Cheat Sheet With AI Command Search | Warp",
+      "timestamp": "2025-04-23T08:58:07.544810",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nReplacing Your Git Command Cheat Sheet With AI Command Search\n\nJessica Wang\n\nJune 21, 2022\n\nCheat sheets are great, but I think we can do better. What happens when you forget to bookmark your cheat sheet, or constantly context switch out of your terminal just to find the one command you need out of a huge list of commands? It takes quite a while and slows down your development process a lot.\n\nI'm going to suggest an alternative approach. Warp's AI Command search is a feature our team just launched that takes natural language and converts it into commands for you - in the matter of seconds. You no longer have to leave the terminal or search through pages of commands to find the one you're looking for.\n\nHowever, my biggest fear when using this feature revolves around one the big question - how reliable is this AI Command Search? Can I trust that the commands it gives me are going to be correct?\n\nIt's a good ques...",
+      "meta_tags": {
+        "description": "Let's give AI Command Search a pop quiz to see how accurate it is! In this blog, we fed our AI Command Search 24 natural language phrases, and gave it score based on the commands it outputted - you can read the whole post to see how it performed.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-to-snag-a-design-role-at-an-early-stage-startup",
+      "title": "Solve problems, don't just talk about them: How to snag a design role at an early-stage startup | Warp",
+      "timestamp": "2025-04-23T08:58:14.874132",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nSolve problems, don't just talk about them: How to snag a design role at an early-stage startup\n\nRob Jones\n\nNovember 21, 2023\n\nI joined Warp, an early stage startup, as the sole designer in January. We didn’t hire Dave, our newest designer until August. The plan wasn’t to spend 8 months interviewing designers. That’s not a fun way to spend the better part of a year and I was busy enough as it was. We just couldn’t find the right person.\n\nWe spoke with a lot of talented people who had impressive backgrounds. They would nail the screening call, behavioral questions, and portfolio presentation. However, during the collaborative portion of the interview (where we solve a problem together), we often felt frustrated and lacked a clear signal that we had found our next team member. It was evident that there was a misalignment in expectations between us and the candidates. After a particularly challenging session, our...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-to-open-warp-vscode",
+      "title": "How to Open Warp from VS Code | Warp",
+      "timestamp": "2025-04-23T08:58:17.731877",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow to Open Warp from VS Code\n\nJess Wang\n\nJuly 6, 2022\n\nVS Code offers a default integration terminal that fits right in with the editor GUI, but many developers still prefer to use their own terminal of preference. I'm going to offer two ways for you to integration Warp with VSCode so you can open up your Warp terminal with just a keyboard shortcut.\n\nOption 1: VS Code Configuration\n\nThis option will allow you to open up a new session of Warp from within VS Code.\n\nVS Code > Settings > Preferences\nType \"terminal\" into the search bar\nWhere it says \"Terminal > External: Osx Exec\", replace whatever is there with \"warp.app\"\nNow when you press Command + Shift + C, a new session of Warp should pop up.\nOption 2: Warp Configuration\n\nThis option will allow you to focus your existing session of Warp while in VS Code, using Warp's Hotkey Window feature.\n\nOpen up a Warp window > Click menu in top right corner > Settings > ...",
+      "meta_tags": {
+        "description": "One of our most highly requested features is an integration of Warp into VS Code. In this blog, we highlight two ways that you can easily open up Warp from VSCode.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/the-data-structure-behind-terminals",
+      "title": "The data structure behind terminals | Warp",
+      "timestamp": "2025-04-23T08:58:22.674908",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe data structure behind terminals\n\nJack Nichols\n\nMay 4, 2023\n\nGrids - two-dimensional arrays of characters - are the universal building blocks of terminals. The basic operations we expect from our terminals - entering a command, receiving output, scrolling through a file - are, at their core, operations on grids. This piece is an attempt at explaining the terminal from the bottom up, starting from the grid. The goal is to spell out some of the not-so-obvious performance calculus behind terminal grids: what are the operations being optimized and at what cost?\n\nIf a terminal session is really some conversation history between the terminal and the commands it has executed or is currently executing, then it’s the grid that provides some agreed-upon format or ledger to converse. It’s not just that grids are a convenient choice for terminal builders; the grid is actually what’s required by the program the terminal...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/fantastic-terminal-programs-and-how-to-quit-them",
+      "title": "Fantastic terminal programs and how to quit them | Warp",
+      "timestamp": "2025-04-23T08:58:26.793352",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nFantastic terminal programs and how to quit them\n\nZheng Tao\n\nSeptember 23, 2021\n\nIt's hard to exit vim, emacs, nano, and tmux on terminals. This article explains why these apps were built this way, and provides a guide on how to exit them.\n\nThere’s a popular meme about exiting vim.\n\nMore earnestly, there’s even a LinkedIn learning course on how to use vim. The first module is dedicated to how to exit.\n\nWhy is it so hard? This seems like an odd problem to have. When’s the last time you’ve thought about exiting your web browser, MSWord, or any other application on your computer?\n\nIt’s not just Vim, but the user experience on the terminal as a whole.\n\nThe terminal predates human computer interaction. It existed before Xerox PARC lab & Apple Computer worked on personal computing and GUIs. Apple introduced some human interface guidelines in 1977, which have been copied pretty much everywhere else -- but the termina...",
+      "meta_tags": {
+        "description": "Learn how to exit commonly used terminal programs like vim, emacs, nano, and tmux. Understand why these tools are difficult to quit and discover step-by-step solutions.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/easily-open-docker-containers-in-your-warp-terminal",
+      "title": "Easily open Docker containers in your Warp terminal | Warp",
+      "timestamp": "2025-04-23T08:58:30.564046",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nEasily open Docker containers in your Warp terminal\n\nDavid Melvin\n\nDecember 7, 2023\n\nWarp’s new Docker extension makes it easier to open containers in your terminal.\n\nTry the extension, available in the Docker Extensions marketplace today.\n\nInstall Warp for Docker\nNo more typing out long container ids\n\nThe docker exec command lets you run commands inside of a running Docker container, but it requires you to define a shell type and type out a lengthy container ID.\n\nIt is possible to use the embedded terminal in Docker Desktop or even open the container in a default external terminal, but neither of those options give you the benefits of using the Warp terminal like:\n\nModern text editing\nIntegrated AI assistance, and\nAccess to your saved workflows in Warp Drive\n\nUntil now, if you wanted to use Warp as your driver for running commands in a Docker container, you had to copy the container ID and paste it on the com...",
+      "meta_tags": {
+        "description": "Open Docker containers in Warpified subshells with Warp's new extension for Docker",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/state-of-the-cli-2023-methodology",
+      "title": "Designing Large-Scale Developer Surveys: Lessons from the State of the CLI | Warp",
+      "timestamp": "2025-04-23T08:58:34.761903",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nDesigning Large-Scale Developer Surveys: Lessons from the State of the CLI\n\nHong Yi Chen\n\nNovember 5, 2023\n\nSurveys like JetBrains' State of Developer Ecosystem and Stack Overflow's Annual Developer Survey provide invaluable insights into developers' tools, workflows, and pain points. But organizing these large-scale research initiatives takes thoughtful design and coordination.\n\nThis year, we conducted our first State of the CLI survey to uncover terminal usage patterns among developers. Through months of preparation, promotion, and analysis, we learned key principles for creating effective developer surveys. In this post, we'll share our methodology, findings, and advice to empower others to design high-quality surveys as well.\n\nBy open-sourcing our methodology in this guide, we hope to enable anyone to conduct impactful developer surveys. The insights from well-designed surveys can steer product development...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/why-is-the-terminal-input-so-weird",
+      "title": "Why is the terminal input so weird? | Warp",
+      "timestamp": "2025-04-23T08:58:39.421205",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWhy is the terminal input so weird?\n\nZach Lloyd\n\nNovember 16, 2022\n\nThis post is about why terminal-based input seems stuck in the 80s.  If you’ve ever banged your head against the wall trying to edit a command, read on…\n\nProblems with input editing in the terminal\nWhy doesn’t the terminal have IDE-style text editing?\nHow terminal input works\nThe limits of TUIs\nIs this actually a problem?\nBuilding a terminal-based IDE-style editor\nChallenges\nWrap up\n\nWe’ve all had this experience: you write a complex multi-line terminal command and realize you have a typo towards the start of it.  Maybe it’s a long curl command and the url is misspelled. Shit. You try pressing the up-arrow to move the cursor up a line so you can fix it.  Nothing happens (or even worse, maybe history entries start showing up :)). You know there’s some way of using the keyboard to get the cursor to the right place, but you can’t remember it.\n\nNe...",
+      "meta_tags": {
+        "description": "Learn about the technical architecture of the terminal that makes it very hard to implement rich – or even “normal” – editing features like you’d find in an IDE.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/notebooks-in-warp-drive",
+      "title": "Introducing Notebooks in Warp Drive | Warp",
+      "timestamp": "2025-04-23T08:58:44.967380",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nIntroducing Notebooks in Warp Drive\n\nNoah Zweben\n\nApril 2, 2024\n\nNotebooks are like runbooks that live next to your command line in the terminal. They’re easy to find, run, and edit. Every Notebook can include executable commands or Workflows, so you can step through multi-step playbooks without copy, pasting, or context-switching. Plus, you can export Notebooks in Markdown format, so there’s no lock in.\n\nNew Notebooks in Warp Drive are available today.\n\nYour team’s runbooks should live in the terminal\n\nTraditional documentation solutions aren’t ideal for terminal workflows.\n\nMost teams keep contextual documentation for projects in README files. If you want to run a command referenced in a file, you have to copy / paste the code. If you want to edit a README, you have to open a text editor and check-in a pull request. But, what do you do with your more universal documentation that doesn’t tie neatly to any one...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/introducing-warp",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:58:50.273484",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nIntroducing Warp: The Terminal for the 21st Century\n\nZach Lloyd\n\nApril 5, 2022\nIntroducing Warp\n\nToday, I’m proud to officially introduce Warp, a from-first-principles reinvention of the terminal to make it work better for developers and teams. As of today, Warp is in public beta and any Mac user can download and use it for free.\n\n Download Warp\n\nWe are also excited to announce that we’ve raised some funds to grow Warp ($23M), both from wonderful firms (GV, Neo, BoxGroup) and world-class operators like Dylan Field (who led our Series A), Elad Gil, Jeff Weiner, and Marc Benioff.\n\nWhy Reinvent the Terminal?\n\nWalk by any developer’s desk and you are likely to see two apps open: their code editor and their terminal (sometimes the code editor is the terminal!).\n\nBoth are crucial to developer productivity.  The code editor is where developers write code; the terminal is where they do pretty much everything else, fr...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls",
+      "title": "What happens when you open a terminal emulator and enter “ls” | Warp",
+      "timestamp": "2025-04-23T08:58:57.140688",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWhat is a Terminal Emulator? Understanding 'ls' Command\n\nSuraj Gupta and Andy Carlson\n\nJanuary 11, 2023\nIntroduction\nHistory - From Teletypes to Terminal Emulators‍\nOpening the Terminal App‍\nWhat Needs to Be Initialized‍\nCreating a “PTY”‍\nSpawning the Shell\nShell Initialization\nLogin vs Non-login Shells\nRunning a command\nEntering keystrokes\nHitting Enter\nParsing a command\nReturning output\nEscape Sequences\nClosing the terminal\n\n‍‍\n\nIntroduction\n\n“What happens when you open a web browser and enter google.com?” Many of us recall being asked this question before. I think it leaves an impression because navigating web pages is this magical process that we take for granted. We do it hundreds, if not thousands of times per day without knowing how it works. Most developers and engineers can explain parts of it, but the depth at which you can discuss this question is infinite.\n\nToday, we’ll discuss the details of somet...",
+      "meta_tags": {
+        "description": "This article explores how terminal emulators function, decoding the process of sending commands to the shell for execution. Unveil the mystery behind what happens when you open a terminal and enter Is.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/perfectionism-vs-pragmatism-in-product-engineering",
+      "title": "Perfectionism vs. Pragmatism in Product Engineering | Warp",
+      "timestamp": "2025-04-23T08:59:02.207275",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nPerfectionism vs. Pragmatism in Product Engineering\n\nZach Bai\n\nJune 28, 2023\n\nFor a lot of software engineers out there, it’s hard not to be a perfectionist. The endeavor of programming dictates a perfectionist mindset – the code must be written without error, else the compiler will fail. A forgotten semicolon or indent can lead to a window littered with red underlines. A PR can’t be merged until it passes CI with zero test failures.  Passing test suites and successful compilations (with no warnings!) are small achievements not too dissimilar from a 10/10 on a pop quiz.\n\nI include myself in this bucket of perfectionists. And to be clear, I largely consider this a good thing. It’s good to consider edge cases, ensure tests are passing (and that the tests exist in the first place), and generally have a rigorous approach to technical tasks, whether it be fixing a regression or designing greenfield architecture.\n\nT...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/whats-so-special-about-ps1",
+      "title": "What’s so special about PS1? Fun with customizing Bash command prompts | Warp",
+      "timestamp": "2025-04-23T08:59:08.051513",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nWhat’s so special about PS1? Fun with customizing Bash command prompts\n\nAgata Cieplik\n\nFebruary 23, 2022\n\nLong ago, when I was still a console newbie, I copied my friend’s bash configuration file. It had all the necessary stuff already included - aliases, colors, and most importantly: a nice prompt setup. I used it on all machines I had access to due to all the extra context it provided. For example, it would turn red when I was on a production machine, show me a current git branch from the repository I was working on, and indicate whether I had any changes to commit by showing a star.2\n\nToday there are a seemingly endless set of tools for configuring the command prompt to your liking, but back then things like Starship were completely non-existent. Most developers I know have customized their prompts in one way or another. This fact, combined with the feedback we’ve received from the Warp community, was good ...",
+      "meta_tags": {
+        "description": "Discover how to customize the PS1 prompt in Bash and how Warp integrates it to enhance your terminal experience. Dive into technical challenges and solutions.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "19"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/get-free-warp-swag",
+      "title": "How to get free Warp swag | Warp",
+      "timestamp": "2025-04-23T08:59:12.757264",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow to get free Warp swag\n\nHong Yi Chen\n\nDecember 3, 2024\n\nWarp isn’t just a modern terminal—it’s also a thriving community of developers who value tools that help them work smarter and faster. With the launch of our refreshed World of Warp branding, we’re excited to introduce a revamped referrals program, complete with updated swag rewards designed exclusively for our community.\n\nThese new rewards embody Warp’s bold new design direction and represent the next step in our evolution. More importantly, we’re thrilled to put them into the hands of our developer community. From custom keycaps and embroidered apparel to Hydroflasks and North Face backpacks, there’s something for everyone. Now is the perfect time to share Warp with your friends and start earning exclusive gear.\n\nHere are 8 strategies to help you earn Warp swag and get involved with the community.\n\n1. Invite friends and teammates\n\nThe fastest and eas...",
+      "meta_tags": {
+        "description": "At Warp, we're excited to introduce a revamped referrals program, complete with updated swag rewards designed exclusively for our community",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/pro-plan",
+      "title": "Unlock more AI requests on Warp’s Pro plan | Warp",
+      "timestamp": "2025-04-23T08:59:17.467184",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nUnlock more AI requests on Warp’s Pro plan\n\nMelanie Crissey\n\nJune 24, 2024\n\nAlongside the release of Agent Mode in Warp AI, there is also a new Pro plan subscription available!\n\nWarp’s Pro plan is ideal for engineers who rely on AI assistance in their development workflows. You can use the plan as an individual or invite two more team members to collaborate with you. This paid plan also includes access to private email support with Warp’s support engineering team.\n\n‍Warp AI: Free usage vs. advanced usage\n\n‍\nEvery Warp account comes with access to Warp AI which includes:\n\nAgent Mode — Work through multi-step developer workflows with an integrated AI agent\nAI Command Suggestions (#) — Quickly look up commands using natural language\nAutofill for workflows in Warp Drive — Let Warp AI name and describe workflows you save\n\nEach of these features incurs Warp AI requests which reset on a monthly cycle.\n\nIf you start a...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/problems-with-promotion-oriented-cultures",
+      "title": "Warp",
+      "timestamp": "2025-04-23T08:59:22.586640",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe Google Incentive Mismatch: Problems with Promotion-Oriented Cultures\n\nZach Lloyd\n\nMay 4, 2022\n\nIf you’re an engineer at Google or Facebook, you’re likely focused on one career question: when am I going to make it to the next level?\n\nGetting to the next level unlocks a lot – more money, more responsibility, more respect, a feeling of progress – and even if you care deeply about other things (your product, your users, etc), you can’t really avoid caring about promotion as well.\n\nThis post talks a bit about the (well-known) issues with this type of culture, and suggests some alternatives for startups not looking to replicate it.\n\nThe problems with promo-culture\n\nThe main problem with promotion-oriented culture is that it’s very hard to align promotion-criteria with business objectives, and so engineers end up doing a lot of work that doesn’t necessarily most benefit the product, users, or business – or even p...",
+      "meta_tags": {
+        "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Now available on MacOS and Linux.",
+        "robots": "noindex, nofollow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/build-error-proof-command-workflows-with-defined-options-for-arguments",
+      "title": "Build error-proof command workflows with defined options for arguments | Warp",
+      "timestamp": "2025-04-23T08:59:27.587498",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nBuild error-proof command workflows with defined options for arguments\n\nLili Wilson\n\nAugust 20, 2024\n\nWe just launched some improvements to the way Workflows work in Warp! Here’s what’s new:\n\n1.\nNow the workflow builder opens in a pane instead of a pop-up modal so you have more space for adding and configuring arguments\n2.\nYou can create a defined list of options for an argument instead of relying on plain text\n\nAs a refresher: Workflows in Warp are templatized commands that you can store in Warp Drive, search from the command palette (CMD + P), and call on the command line (CTRL + R).\n\nWorkflows are similar to aliases but they’re more powerful because you can add descriptions and define arguments (parameters).\n\nNow you can preset a defined list of suggested options for an argument. When you’re ready to run the workflow and build out your command, you can use the arrow keys to navigate through the options list...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/open-source-and-login-for-warp",
+      "title": "Open source and login for Warp, the collaborative terminal | Warp",
+      "timestamp": "2025-04-23T08:59:31.392945",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nOpen source and login for Warp, the collaborative terminal\n\nZach Lloyd\n\nFebruary 22, 2024\n\nUpdate (November 22, 2024): Warp no longer requires login. You can now download and start using Warp without signing up. Read more about this change in our blog post: Lifting the Login Requirement.\n\n---\n\nThis blog post lays out my thoughts as the founder of Warp on two of its (somewhat) controversial aspects, namely that it currently requires login and is closed source.\n\nMy hope is not that I’ll convince every developer we are doing things the right way, but to communicate the rationale behind our choices and let folks considering trying the product understand why Warp is the way it is.\n\nLogin\n\nWarp requires developers to log in once when they start using the app. The basic rationale is the same as in other cloud based apps: login enables a consistent experience wherever a developer accesses the app so you don’t waste ti...",
+      "meta_tags": {
+        "description": "",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/story-behind-ai-command-search",
+      "title": "The Story Behind Warp's AI Command Search | Warp",
+      "timestamp": "2025-04-23T08:59:36.240823",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nThe Story Behind Warp's AI Command Search\n\nJess Wang\n\nJuly 7, 2022\nIntroduction\n\nIn April 2022, Warp launched a feature called AI Command Search. It allows users to type natural language search into the terminal and get back a command generated by artificial intelligence. It's one of Warp's more unique features, and an extremely powerful tool if you know how to use it. To learn more about AI Command search specifically, please check out our official documentation or read this blog here where we gave AI Command Search a pop quiz on Git commands.\n\nBut the story of how AI Command Search came to be is quite interesting. I talked with Kevin Yang, the engineer behind the feature, and gained some insight into the challenges he navigated before arriving at the product we see in Warp today.\n\nKevin's profile from \"About Us\" page\n\n‍\n\n‍\n\nThe Origin Story of AI Command Search\n\nIn October 2021, Github Copilot was announced ...",
+      "meta_tags": {
+        "description": "Learn about how one of Warp's most unique features, AI Command Search, came into existence. This is the story of how Kevin's side project turned into a fully-fleshed out feature that launched as part of Warp's public beta.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    },
+    {
+      "url": "https://www.warp.dev/blog/how-we-built-syntax-highlighting-for-the-terminal-input-editor",
+      "title": "How We Built Syntax Highlighting for the Terminal Input Editor | Warp",
+      "timestamp": "2025-04-23T08:59:44.822137",
+      "body_text": "Features\nResources\nPricing\nCareers\nEnterprise\nContact sales\nDownload for Mac\nHow We Built Syntax Highlighting for the Terminal Input Editor\n\nAdvait Maybhate\n\nNovember 16, 2022\n‍Why We Built Syntax Highlighting‍\n‍Styling Text Within Warp‍\nCommand Parsing‍\nLaunching The Features\nWhy We Built Syntax Highlighting\n\nCommand entry is the cornerstone of any terminal - we wanted to make sure users had the best experience possible when crafting commands. The major pain points we were attempting to address from our users were:\n\n1.\n\nUsers mistyping a command name resulting in an error. There was no easy way to differentiate between existing and non-existing commands - Issue 66\n\n2.\n\nThere was no visual way to differentiate between the different parts of a command (subcommand, options, arguments, variables, etc.)\n\n3.\n\nExisting plugins/shell support for similar features were not being supported within Warp - Issue 1211 or Issue 1177\n\nNote that this is due to our custom input editor, which allows us t...",
+      "meta_tags": {
+        "description": "Advait dives into how he built syntax highlighting and red underlining in Warp.",
+        "robots": "index, follow",
+        "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+        "next-head-count": "14"
+      }
+    }
+  ]
+}
