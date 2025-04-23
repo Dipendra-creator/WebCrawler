@@ -10,7 +10,7 @@ USER_AGENTS = [
 PROXIES = [
 # {"server": "198.49.68.80:80", "username": "", "password": ""},
 # {"server": "18.134.236.231:1080", "username": "", "password": ""},
-# {"server": "170.106.193.157:13001", "username": "", "password": ""}
+{"server": "170.106.193.157:13001", "username": "", "password": ""}
 ]
 
 
